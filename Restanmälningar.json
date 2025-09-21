@@ -1,1 +1,4499 @@
-Restanmälningar.json
+[
+  {
+    "varunummer": "599899",
+    "startdatum": "2023-02-22",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "039246",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "067805",
+    "startdatum": "2025-02-26",
+    "slutdatum": "2025-09-24"
+  },
+  {
+    "varunummer": "203679",
+    "startdatum": "2022-11-07"
+  },
+  {
+    "varunummer": "538461",
+    "startdatum": "2024-11-12",
+    "slutdatum": "2025-12-20"
+  },
+  {
+    "varunummer": "169659",
+    "startdatum": "2025-07-04",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "014465",
+    "startdatum": "2025-08-20",
+    "slutdatum": "2025-10-08"
+  },
+  {
+    "varunummer": "405647",
+    "startdatum": "2025-09-17",
+    "slutdatum": "2025-10-13"
+  },
+  {
+    "varunummer": "072639",
+    "startdatum": "2024-02-10",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "088653",
+    "startdatum": "2024-12-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "452862",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "468909",
+    "startdatum": "2024-07-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "500228",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "087548",
+    "startdatum": "2024-03-13",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "087525",
+    "startdatum": "2024-12-16",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "087514",
+    "startdatum": "2025-07-16",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "394499",
+    "startdatum": "2024-08-22",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "590717",
+    "startdatum": "2024-11-20",
+    "slutdatum": "2025-12-04"
+  },
+  {
+    "varunummer": "195135",
+    "startdatum": "2025-03-05",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "172414",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2025-12-12"
+  },
+  {
+    "varunummer": "046825",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2025-12-12"
+  },
+  {
+    "varunummer": "449707",
+    "startdatum": "2025-06-20",
+    "slutdatum": "2025-12-18"
+  },
+  {
+    "varunummer": "083818",
+    "startdatum": "2025-06-16",
+    "slutdatum": "2025-12-18"
+  },
+  {
+    "varunummer": "016176",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "401013",
+    "startdatum": "2025-04-11",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "112661",
+    "startdatum": "2025-08-20",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "407024",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "038537",
+    "startdatum": "2023-05-09",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "018874",
+    "startdatum": "2024-02-10",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "077111",
+    "startdatum": "2023-10-17",
+    "slutdatum": "2025-10-07"
+  },
+  {
+    "varunummer": "564414",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "509981",
+    "startdatum": "2025-03-24",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "033708",
+    "startdatum": "2025-05-01",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "006821",
+    "startdatum": "2024-09-27",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "584577",
+    "startdatum": "2025-03-21",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "528144",
+    "startdatum": "2024-10-06",
+    "slutdatum": "2025-09-15"
+  },
+  {
+    "varunummer": "034156",
+    "startdatum": "2025-03-17",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "524578",
+    "startdatum": "2024-06-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "098023",
+    "startdatum": "2024-04-26",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "154001",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2027-12-31"
+  },
+  {
+    "varunummer": "552726",
+    "startdatum": "2023-08-09",
+    "slutdatum": "2026-03-01"
+  },
+  {
+    "varunummer": "035249",
+    "startdatum": "2025-07-14",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "377340",
+    "startdatum": "2025-02-01"
+  },
+  {
+    "varunummer": "466687",
+    "startdatum": "2025-02-01"
+  },
+  {
+    "varunummer": "157551",
+    "startdatum": "2025-02-01"
+  },
+  {
+    "varunummer": "195040",
+    "startdatum": "2025-09-10",
+    "slutdatum": "2025-09-22"
+  },
+  {
+    "varunummer": "564996",
+    "startdatum": "2024-05-20",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "566937",
+    "startdatum": "2025-04-04",
+    "slutdatum": "2025-10-17"
+  },
+  {
+    "varunummer": "163424",
+    "startdatum": "2024-09-13",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "436353",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2025-09-22"
+  },
+  {
+    "varunummer": "451515",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-02-01"
+  },
+  {
+    "varunummer": "197006",
+    "startdatum": "2023-11-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "177429",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "477081",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "178650",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "442150",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "411846",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "136954",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "489669",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "383944",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "453350",
+    "startdatum": "2024-05-21",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "017680",
+    "startdatum": "2025-04-02",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "563407",
+    "startdatum": "2025-02-13",
+    "slutdatum": "2025-12-25"
+  },
+  {
+    "varunummer": "495962",
+    "startdatum": "2025-03-20",
+    "slutdatum": "2025-12-25"
+  },
+  {
+    "varunummer": "554405",
+    "startdatum": "2025-03-28",
+    "slutdatum": "2025-12-25"
+  },
+  {
+    "varunummer": "061072",
+    "startdatum": "2025-03-17",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "034313",
+    "startdatum": "2025-06-02"
+  },
+  {
+    "varunummer": "008082",
+    "startdatum": "2023-07-11",
+    "slutdatum": "2027-04-30"
+  },
+  {
+    "varunummer": "088261",
+    "startdatum": "2024-01-09",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "173684",
+    "startdatum": "2025-06-13",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "444760",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-09-19"
+  },
+  {
+    "varunummer": "066722",
+    "startdatum": "2024-05-20",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "448017",
+    "startdatum": "2025-03-10",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "518045",
+    "startdatum": "2025-04-28",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "547850",
+    "startdatum": "2024-03-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "157206",
+    "startdatum": "2025-02-10",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "129450",
+    "startdatum": "2025-09-09",
+    "slutdatum": "2025-11-14"
+  },
+  {
+    "varunummer": "467474",
+    "startdatum": "2025-07-22",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "374086",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-12-15"
+  },
+  {
+    "varunummer": "083422",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "374183",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "188154",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "505495",
+    "startdatum": "2025-09-03",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "180847",
+    "startdatum": "2025-09-15"
+  },
+  {
+    "varunummer": "015381",
+    "startdatum": "2025-09-10",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "008268",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "070565",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "157386",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "519544",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "554391",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "557897",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "112930",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "154547",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "506056",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "498222",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "404709",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "456539",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "037398",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "434038",
+    "startdatum": "2024-09-27",
+    "slutdatum": "2026-10-31"
+  },
+  {
+    "varunummer": "464802",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-02-28"
+  },
+  {
+    "varunummer": "142914",
+    "startdatum": "2024-03-08",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "071029",
+    "startdatum": "2025-03-13",
+    "slutdatum": "2025-11-06"
+  },
+  {
+    "varunummer": "530580",
+    "startdatum": "2021-10-04",
+    "slutdatum": "2027-07-01"
+  },
+  {
+    "varunummer": "142907",
+    "startdatum": "2022-06-20",
+    "slutdatum": "2027-07-01"
+  },
+  {
+    "varunummer": "475453",
+    "startdatum": "2022-08-10",
+    "slutdatum": "2027-07-01"
+  },
+  {
+    "varunummer": "058185",
+    "startdatum": "2022-07-04",
+    "slutdatum": "2027-07-01"
+  },
+  {
+    "varunummer": "398691",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "097973",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "378785",
+    "startdatum": "2025-03-13",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "006921",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "509200",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "510726",
+    "startdatum": "2025-04-20",
+    "slutdatum": "2025-09-29"
+  },
+  {
+    "varunummer": "095892",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-11-12"
+  },
+  {
+    "varunummer": "467151",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-11-12"
+  },
+  {
+    "varunummer": "460625",
+    "startdatum": "2024-10-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "527947",
+    "startdatum": "2024-07-01",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "585688",
+    "startdatum": "2024-06-01",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "428446",
+    "startdatum": "2024-02-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "531262",
+    "startdatum": "2024-06-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "097917",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "007028",
+    "startdatum": "2025-07-15",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "000432",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "182894",
+    "startdatum": "2025-05-09",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "095219",
+    "startdatum": "2025-03-03",
+    "slutdatum": "2025-10-29"
+  },
+  {
+    "varunummer": "573169",
+    "startdatum": "2025-05-28",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "547233",
+    "startdatum": "2025-05-16",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "176003",
+    "startdatum": "2024-08-01",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "075806",
+    "startdatum": "2023-03-15",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "125736",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "009900",
+    "startdatum": "2023-02-01",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "045031",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "189955",
+    "startdatum": "2023-11-17",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "531357",
+    "startdatum": "2025-06-12",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "085830",
+    "startdatum": "2025-07-15",
+    "slutdatum": "2026-03-01"
+  },
+  {
+    "varunummer": "495977",
+    "startdatum": "2025-06-03",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "142615",
+    "startdatum": "2025-07-14",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "443962",
+    "startdatum": "2025-02-26",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "056758",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "012451",
+    "startdatum": "2023-07-11",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "012483",
+    "startdatum": "2025-06-23",
+    "slutdatum": "2026-03-06"
+  },
+  {
+    "varunummer": "181707",
+    "startdatum": "2023-04-04",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "001120",
+    "startdatum": "2025-05-27",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "421006",
+    "startdatum": "2025-02-26",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "074377",
+    "startdatum": "2025-09-09",
+    "slutdatum": "2025-10-22"
+  },
+  {
+    "varunummer": "018596",
+    "startdatum": "2025-09-12",
+    "slutdatum": "2026-03-01"
+  },
+  {
+    "varunummer": "002947",
+    "startdatum": "2022-06-01",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "497395",
+    "startdatum": "2024-10-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "379142",
+    "startdatum": "2024-10-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "178729",
+    "startdatum": "2024-10-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "179758",
+    "startdatum": "2025-03-14",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "081140",
+    "startdatum": "2024-10-24",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "135726",
+    "startdatum": "2024-12-17",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "065978",
+    "startdatum": "2024-08-16",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "520326",
+    "startdatum": "2025-07-04",
+    "slutdatum": "2026-02-15"
+  },
+  {
+    "varunummer": "590284",
+    "startdatum": "2025-09-11",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "461201",
+    "startdatum": "2025-03-28",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "406392",
+    "startdatum": "2025-05-20",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "414664",
+    "startdatum": "2024-07-20",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "414631",
+    "startdatum": "2024-11-01",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "488087",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "027398",
+    "startdatum": "2025-06-02",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "161365",
+    "startdatum": "2025-09-10",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "033703",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "447012",
+    "startdatum": "2022-01-28",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "522133",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "193374",
+    "startdatum": "2025-06-02",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "480303",
+    "startdatum": "2025-05-22",
+    "slutdatum": "2025-12-19"
+  },
+  {
+    "varunummer": "597522",
+    "startdatum": "2025-02-04",
+    "slutdatum": "2026-01-23"
+  },
+  {
+    "varunummer": "172002",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "107449",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-12-19"
+  },
+  {
+    "varunummer": "460835",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-17"
+  },
+  {
+    "varunummer": "415428",
+    "startdatum": "2024-04-23",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "073224",
+    "startdatum": "2024-04-23",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "064005",
+    "startdatum": "2024-04-23",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "568735",
+    "startdatum": "2025-08-05",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "073805",
+    "startdatum": "2024-04-23",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "182666",
+    "startdatum": "2024-03-28",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "438052",
+    "startdatum": "2025-08-20",
+    "slutdatum": "2025-12-15"
+  },
+  {
+    "varunummer": "455653",
+    "startdatum": "2025-05-19",
+    "slutdatum": "2025-10-09"
+  },
+  {
+    "varunummer": "021899",
+    "startdatum": "2025-04-24"
+  },
+  {
+    "varunummer": "063060",
+    "startdatum": "2025-02-21",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "576954",
+    "startdatum": "2025-02-28",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "068449",
+    "startdatum": "2024-09-27",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "374803",
+    "startdatum": "2025-04-21",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "523393",
+    "startdatum": "2024-01-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "129488",
+    "startdatum": "2024-07-24",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "183493",
+    "startdatum": "2025-03-18",
+    "slutdatum": "2025-09-23"
+  },
+  {
+    "varunummer": "112114",
+    "startdatum": "2025-03-18",
+    "slutdatum": "2025-11-13"
+  },
+  {
+    "varunummer": "505933",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-09-29"
+  },
+  {
+    "varunummer": "151860",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-10-24"
+  },
+  {
+    "varunummer": "530325",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "095076",
+    "startdatum": "2025-06-03",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "118278",
+    "startdatum": "2024-08-23",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "138902",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2025-12-18"
+  },
+  {
+    "varunummer": "182328",
+    "startdatum": "2025-09-16",
+    "slutdatum": "2025-12-18"
+  },
+  {
+    "varunummer": "174499",
+    "startdatum": "2025-07-28",
+    "slutdatum": "2026-02-01"
+  },
+  {
+    "varunummer": "111612",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-10-28"
+  },
+  {
+    "varunummer": "045580",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "097848",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "076327",
+    "startdatum": "2025-05-01",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "103070",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-10-22"
+  },
+  {
+    "varunummer": "517712",
+    "startdatum": "2024-08-12",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "096414",
+    "startdatum": "2023-03-30",
+    "slutdatum": "2026-05-31"
+  },
+  {
+    "varunummer": "487233",
+    "startdatum": "2023-09-11",
+    "slutdatum": "2026-05-31"
+  },
+  {
+    "varunummer": "415415",
+    "startdatum": "2021-09-14",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "429318",
+    "startdatum": "2025-03-01"
+  },
+  {
+    "varunummer": "071166",
+    "startdatum": "2022-06-03",
+    "slutdatum": "2026-03-16"
+  },
+  {
+    "varunummer": "189790",
+    "startdatum": "2024-02-15",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "485123",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "021445",
+    "startdatum": "2025-01-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "021434",
+    "startdatum": "2025-01-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "427308",
+    "startdatum": "2025-03-10",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "044856",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "452164",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "412849",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "060930",
+    "startdatum": "2025-04-05",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "441410",
+    "startdatum": "2025-04-22",
+    "slutdatum": "2025-11-03"
+  },
+  {
+    "varunummer": "125314",
+    "startdatum": "2025-03-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "460465",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-11-16"
+  },
+  {
+    "varunummer": "454210",
+    "startdatum": "2025-04-30",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "077994",
+    "startdatum": "2025-07-23",
+    "slutdatum": "2025-09-17"
+  },
+  {
+    "varunummer": "128047",
+    "startdatum": "2024-04-12",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "414148",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-01-16"
+  },
+  {
+    "varunummer": "429980",
+    "startdatum": "2025-03-10",
+    "slutdatum": "2026-02-01"
+  },
+  {
+    "varunummer": "407274",
+    "startdatum": "2024-12-05",
+    "slutdatum": "2026-01-15"
+  },
+  {
+    "varunummer": "568910",
+    "startdatum": "2025-05-15",
+    "slutdatum": "2026-01-14"
+  },
+  {
+    "varunummer": "026986",
+    "startdatum": "2025-04-30"
+  },
+  {
+    "varunummer": "564871",
+    "startdatum": "2025-06-23",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "156066",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-10-09"
+  },
+  {
+    "varunummer": "569385",
+    "startdatum": "2025-04-14",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "193718",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "034468",
+    "startdatum": "2025-03-31",
+    "slutdatum": "2027-01-01"
+  },
+  {
+    "varunummer": "034479",
+    "startdatum": "2025-08-06",
+    "slutdatum": "2027-01-01"
+  },
+  {
+    "varunummer": "052392",
+    "startdatum": "2023-09-01",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "166114",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-11-05"
+  },
+  {
+    "varunummer": "557455",
+    "startdatum": "2025-07-30"
+  },
+  {
+    "varunummer": "090156",
+    "startdatum": "2023-05-09",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "185060",
+    "startdatum": "2023-05-09",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "041216",
+    "startdatum": "2023-05-09",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "134539",
+    "startdatum": "2023-05-09",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "072201",
+    "startdatum": "2024-10-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "527371",
+    "startdatum": "2025-05-30",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "020265",
+    "startdatum": "2025-07-31",
+    "slutdatum": "2025-10-08"
+  },
+  {
+    "varunummer": "073923",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "440652",
+    "startdatum": "2025-05-10",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "514090",
+    "startdatum": "2025-04-08",
+    "slutdatum": "2025-11-06"
+  },
+  {
+    "varunummer": "373234",
+    "startdatum": "2025-05-15",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "023641",
+    "startdatum": "2025-04-24",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "023710",
+    "startdatum": "2025-07-18",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "505367",
+    "startdatum": "2024-08-28",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "114562",
+    "startdatum": "2022-04-19",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "384253",
+    "startdatum": "2022-12-12",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "409799",
+    "startdatum": "2022-12-12",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "122007",
+    "startdatum": "2023-06-24",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "581802",
+    "startdatum": "2023-06-24",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "163251",
+    "startdatum": "2025-06-13",
+    "slutdatum": "2025-09-22"
+  },
+  {
+    "varunummer": "181083",
+    "startdatum": "2023-12-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "028185",
+    "startdatum": "2024-07-08",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "076915",
+    "startdatum": "2025-08-19",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "049996",
+    "startdatum": "2024-12-06",
+    "slutdatum": "2025-12-10"
+  },
+  {
+    "varunummer": "065824",
+    "startdatum": "2025-01-14",
+    "slutdatum": "2025-12-10"
+  },
+  {
+    "varunummer": "537757",
+    "startdatum": "2025-01-16",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "061343",
+    "startdatum": "2025-04-28",
+    "slutdatum": "2025-12-10"
+  },
+  {
+    "varunummer": "131127",
+    "startdatum": "2025-07-02",
+    "slutdatum": "2026-01-15"
+  },
+  {
+    "varunummer": "125004",
+    "startdatum": "2025-01-13",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "171919",
+    "startdatum": "2025-01-13",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "498715",
+    "startdatum": "2023-06-30"
+  },
+  {
+    "varunummer": "590015",
+    "startdatum": "2025-05-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "148043",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "522038",
+    "startdatum": "2025-05-22",
+    "slutdatum": "2026-03-30"
+  },
+  {
+    "varunummer": "413261",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "413222",
+    "startdatum": "2025-01-06",
+    "slutdatum": "2025-10-17"
+  },
+  {
+    "varunummer": "555543",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "422973",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "599131",
+    "startdatum": "2025-02-20",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "179461",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "102229",
+    "startdatum": "2025-05-26",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "144273",
+    "startdatum": "2024-03-08",
+    "slutdatum": "2025-10-06"
+  },
+  {
+    "varunummer": "524245",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "522103",
+    "startdatum": "2025-07-28",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "505975",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "150812",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "545522",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "050874",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "432606",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "534228",
+    "startdatum": "2025-01-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "047962",
+    "startdatum": "2025-01-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "500822",
+    "startdatum": "2025-01-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "448762",
+    "startdatum": "2025-06-23",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "163453",
+    "startdatum": "2025-09-10",
+    "slutdatum": "2025-11-06"
+  },
+  {
+    "varunummer": "110484",
+    "startdatum": "2025-08-20",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "519463",
+    "startdatum": "2024-11-29",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "469751",
+    "startdatum": "2024-03-19",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "507334",
+    "startdatum": "2024-03-25",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "468992",
+    "startdatum": "2024-03-18",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "044995",
+    "startdatum": "2024-06-11",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "172143",
+    "startdatum": "2024-06-11",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "404645",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "566667",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "016858",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "389171",
+    "startdatum": "2025-09-16",
+    "slutdatum": "2025-11-04"
+  },
+  {
+    "varunummer": "389106",
+    "startdatum": "2025-05-07",
+    "slutdatum": "2025-11-04"
+  },
+  {
+    "varunummer": "389122",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-11-04"
+  },
+  {
+    "varunummer": "487449",
+    "startdatum": "2025-05-23",
+    "slutdatum": "2025-09-22"
+  },
+  {
+    "varunummer": "415045",
+    "startdatum": "2025-07-28",
+    "slutdatum": "2025-09-22"
+  },
+  {
+    "varunummer": "040968",
+    "startdatum": "2024-10-01",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "040957",
+    "startdatum": "2025-01-25",
+    "slutdatum": "2025-11-28"
+  },
+  {
+    "varunummer": "040934",
+    "startdatum": "2025-01-25",
+    "slutdatum": "2025-11-03"
+  },
+  {
+    "varunummer": "408661",
+    "startdatum": "2025-09-16",
+    "slutdatum": "2025-12-28"
+  },
+  {
+    "varunummer": "579051",
+    "startdatum": "2023-11-15",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "435387",
+    "startdatum": "2024-06-26"
+  },
+  {
+    "varunummer": "178981",
+    "startdatum": "2025-06-03"
+  },
+  {
+    "varunummer": "005440",
+    "startdatum": "2025-08-21",
+    "slutdatum": "2025-10-06"
+  },
+  {
+    "varunummer": "528076",
+    "startdatum": "2025-01-15",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "063163",
+    "startdatum": "2023-12-13",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "487593",
+    "startdatum": "2025-07-28",
+    "slutdatum": "2025-12-19"
+  },
+  {
+    "varunummer": "469391",
+    "startdatum": "2025-09-01"
+  },
+  {
+    "varunummer": "119836",
+    "startdatum": "2024-07-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "017745",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-11-27"
+  },
+  {
+    "varunummer": "033833",
+    "startdatum": "2025-09-11",
+    "slutdatum": "2025-11-13"
+  },
+  {
+    "varunummer": "037641",
+    "startdatum": "2025-01-29",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "145424",
+    "startdatum": "2025-01-21",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "022081",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-11-20"
+  },
+  {
+    "varunummer": "024379",
+    "startdatum": "2025-03-16",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "117461",
+    "startdatum": "2025-06-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "538675",
+    "startdatum": "2025-08-08",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "590254",
+    "startdatum": "2025-01-29",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "021334",
+    "startdatum": "2025-01-30",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "002762",
+    "startdatum": "2025-09-20",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "443903",
+    "startdatum": "2024-03-07",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "199412",
+    "startdatum": "2024-07-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "433705",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "502851",
+    "startdatum": "2024-02-29",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "138828",
+    "startdatum": "2024-09-12",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "011813",
+    "startdatum": "2024-05-27",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "447607",
+    "startdatum": "2024-05-31",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "441542",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-11-17"
+  },
+  {
+    "varunummer": "039160",
+    "startdatum": "2025-07-17",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "565034",
+    "startdatum": "2024-01-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "583559",
+    "startdatum": "2025-05-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "130435",
+    "startdatum": "2025-05-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "130526",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "595192",
+    "startdatum": "2023-10-16",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "376413",
+    "startdatum": "2025-05-16",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "107801",
+    "startdatum": "2024-05-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "417487",
+    "startdatum": "2024-08-28",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "051407",
+    "startdatum": "2025-04-10",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "541369",
+    "startdatum": "2024-09-04",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "541369",
+    "startdatum": "2024-09-04",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "372963",
+    "startdatum": "2025-05-07",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "372963",
+    "startdatum": "2025-05-07",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "578475",
+    "startdatum": "2025-05-07",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "538957",
+    "startdatum": "2025-06-05",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "538957",
+    "startdatum": "2025-06-05",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "196036",
+    "startdatum": "2025-06-09",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "196036",
+    "startdatum": "2025-06-02",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "509279",
+    "startdatum": "2025-09-11",
+    "slutdatum": "2025-11-10"
+  },
+  {
+    "varunummer": "509279",
+    "startdatum": "2025-09-11",
+    "slutdatum": "2025-11-10"
+  },
+  {
+    "varunummer": "565968",
+    "startdatum": "2023-06-21",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "379953",
+    "startdatum": "2023-12-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "551639",
+    "startdatum": "2023-09-30",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "563604",
+    "startdatum": "2025-04-03",
+    "slutdatum": "2025-11-28"
+  },
+  {
+    "varunummer": "161754",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2025-11-06"
+  },
+  {
+    "varunummer": "391390",
+    "startdatum": "2025-09-10",
+    "slutdatum": "2025-12-04"
+  },
+  {
+    "varunummer": "059059",
+    "startdatum": "2025-02-01",
+    "slutdatum": "2026-01-05"
+  },
+  {
+    "varunummer": "389404",
+    "startdatum": "2025-02-01",
+    "slutdatum": "2025-11-21"
+  },
+  {
+    "varunummer": "564124",
+    "startdatum": "2025-08-08",
+    "slutdatum": "2026-01-05"
+  },
+  {
+    "varunummer": "118379",
+    "startdatum": "2025-09-11",
+    "slutdatum": "2026-01-05"
+  },
+  {
+    "varunummer": "011718",
+    "startdatum": "2025-07-16",
+    "slutdatum": "2026-04-30"
+  },
+  {
+    "varunummer": "178453",
+    "startdatum": "2022-04-19",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "524818",
+    "startdatum": "2025-09-01"
+  },
+  {
+    "varunummer": "393795",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "559336",
+    "startdatum": "2025-07-03",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "559344",
+    "startdatum": "2025-07-03",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "025568",
+    "startdatum": "2025-03-15",
+    "slutdatum": "2026-02-28"
+  },
+  {
+    "varunummer": "469480",
+    "startdatum": "2025-09-17",
+    "slutdatum": "2025-12-05"
+  },
+  {
+    "varunummer": "086854",
+    "startdatum": "2025-06-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "531020",
+    "startdatum": "2022-11-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "152720",
+    "startdatum": "2024-07-15"
+  },
+  {
+    "varunummer": "152742",
+    "startdatum": "2024-07-15"
+  },
+  {
+    "varunummer": "051699",
+    "startdatum": "2025-06-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "468058",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "198963",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2026-02-15"
+  },
+  {
+    "varunummer": "018562",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "144329",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "370482",
+    "startdatum": "2024-08-01",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "122440",
+    "startdatum": "2025-07-02",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "123059",
+    "startdatum": "2025-08-07",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "061379",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "538673",
+    "startdatum": "2024-10-22",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "557872",
+    "startdatum": "2023-12-01",
+    "slutdatum": "2026-10-01"
+  },
+  {
+    "varunummer": "558491",
+    "startdatum": "2025-07-15",
+    "slutdatum": "2026-01-15"
+  },
+  {
+    "varunummer": "096451",
+    "startdatum": "2024-11-01",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "411918",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "109850",
+    "startdatum": "2025-09-13",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "589668",
+    "startdatum": "2024-07-09",
+    "slutdatum": "2026-02-15"
+  },
+  {
+    "varunummer": "019372",
+    "startdatum": "2023-02-27",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "016317",
+    "startdatum": "2023-11-10",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "405019",
+    "startdatum": "2024-01-20",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "001780",
+    "startdatum": "2025-06-20",
+    "slutdatum": "2025-09-20"
+  },
+  {
+    "varunummer": "382209",
+    "startdatum": "2025-01-24",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "033019",
+    "startdatum": "2022-11-17",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "531456",
+    "startdatum": "2022-11-17",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "018940",
+    "startdatum": "2025-03-21",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "079173",
+    "startdatum": "2025-04-14",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "499928",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "168342",
+    "startdatum": "2025-02-10",
+    "slutdatum": "2026-02-15"
+  },
+  {
+    "varunummer": "400913",
+    "startdatum": "2024-12-17",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "190997",
+    "startdatum": "2025-02-20",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "128327",
+    "startdatum": "2024-03-08",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "578438",
+    "startdatum": "2024-08-19",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "598411",
+    "startdatum": "2024-08-19",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "473746",
+    "startdatum": "2023-12-14",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "442798",
+    "startdatum": "2025-04-25",
+    "slutdatum": "2025-10-06"
+  },
+  {
+    "varunummer": "076888",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-09-22"
+  },
+  {
+    "varunummer": "040706",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "040718",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "538623",
+    "startdatum": "2025-06-26",
+    "slutdatum": "2026-09-26"
+  },
+  {
+    "varunummer": "014157",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-10-13"
+  },
+  {
+    "varunummer": "106021",
+    "startdatum": "2024-06-28",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "001123",
+    "startdatum": "2025-01-15",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "528069",
+    "startdatum": "2024-12-12",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "549342",
+    "startdatum": "2025-03-20",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "125200",
+    "startdatum": "2025-03-20",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "066983",
+    "startdatum": "2025-03-20",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "537977",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-10"
+  },
+  {
+    "varunummer": "484326",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-17"
+  },
+  {
+    "varunummer": "570703",
+    "startdatum": "2025-08-19",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "371069",
+    "startdatum": "2025-08-19",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "411903",
+    "startdatum": "2024-02-13",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "553910",
+    "startdatum": "2024-12-19",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "153004",
+    "startdatum": "2024-12-09",
+    "slutdatum": "2025-11-20"
+  },
+  {
+    "varunummer": "074630",
+    "startdatum": "2024-12-16",
+    "slutdatum": "2025-11-20"
+  },
+  {
+    "varunummer": "427531",
+    "startdatum": "2025-04-04",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "591497",
+    "startdatum": "2025-06-15",
+    "slutdatum": "2025-11-13"
+  },
+  {
+    "varunummer": "189771",
+    "startdatum": "2025-06-23",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "154240",
+    "startdatum": "2024-10-10",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "467518",
+    "startdatum": "2025-05-06",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "458565",
+    "startdatum": "2023-06-01",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "599876",
+    "startdatum": "2023-06-01",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "473354",
+    "startdatum": "2023-12-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "530895",
+    "startdatum": "2023-12-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "176806",
+    "startdatum": "2024-09-15",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "087708",
+    "startdatum": "2023-06-16",
+    "slutdatum": "2025-11-07"
+  },
+  {
+    "varunummer": "550796",
+    "startdatum": "2025-07-28",
+    "slutdatum": "2026-01-05"
+  },
+  {
+    "varunummer": "005884",
+    "startdatum": "2025-02-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "051275",
+    "startdatum": "2022-12-12",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "525784",
+    "startdatum": "2022-12-12",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "516597",
+    "startdatum": "2022-12-12",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "489596",
+    "startdatum": "2022-12-12",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "041801",
+    "startdatum": "2023-04-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "192141",
+    "startdatum": "2023-06-28",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "441432",
+    "startdatum": "2025-03-10"
+  },
+  {
+    "varunummer": "516532",
+    "startdatum": "2025-01-31"
+  },
+  {
+    "varunummer": "045515",
+    "startdatum": "2025-05-30",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "037036",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "134991",
+    "startdatum": "2022-05-31",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "199994",
+    "startdatum": "2022-05-31",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "419311",
+    "startdatum": "2024-04-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "480296",
+    "startdatum": "2025-08-04",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "076436",
+    "startdatum": "2025-08-04",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "483101",
+    "startdatum": "2023-05-15",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "084138",
+    "startdatum": "2023-05-15",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "076847",
+    "startdatum": "2023-05-15",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "443659",
+    "startdatum": "2023-05-15",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "586500",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "385477",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "388605",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "387568",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "486111",
+    "startdatum": "2024-11-18",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "092285",
+    "startdatum": "2025-04-14",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "394422",
+    "startdatum": "2025-04-14",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "523148",
+    "startdatum": "2025-08-11",
+    "slutdatum": "2027-08-09"
+  },
+  {
+    "varunummer": "510402",
+    "startdatum": "2025-07-23",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "100886",
+    "startdatum": "2025-07-23",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "394761",
+    "startdatum": "2024-08-07",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "084944",
+    "startdatum": "2023-11-29",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "082116",
+    "startdatum": "2025-05-23",
+    "slutdatum": "2026-04-02"
+  },
+  {
+    "varunummer": "021797",
+    "startdatum": "2025-08-20",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "115820",
+    "startdatum": "2024-08-12",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "023120",
+    "startdatum": "2020-05-28",
+    "slutdatum": "2028-06-28"
+  },
+  {
+    "varunummer": "580373",
+    "startdatum": "2025-04-28",
+    "slutdatum": "2025-09-22"
+  },
+  {
+    "varunummer": "180977",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2026-02-15"
+  },
+  {
+    "varunummer": "431154",
+    "startdatum": "2025-04-28",
+    "slutdatum": "2025-12-19"
+  },
+  {
+    "varunummer": "155220",
+    "startdatum": "2025-01-16"
+  },
+  {
+    "varunummer": "115695",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "518694",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "079891",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "477647",
+    "startdatum": "2024-04-08",
+    "slutdatum": "2025-10-06"
+  },
+  {
+    "varunummer": "093996",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "199099",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "016323",
+    "startdatum": "2025-06-26",
+    "slutdatum": "2026-01-25"
+  },
+  {
+    "varunummer": "050614",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2026-01-25"
+  },
+  {
+    "varunummer": "025836",
+    "startdatum": "2025-07-07",
+    "slutdatum": "2025-11-14"
+  },
+  {
+    "varunummer": "583852",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-11-07"
+  },
+  {
+    "varunummer": "392504",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-11-07"
+  },
+  {
+    "varunummer": "387685",
+    "startdatum": "2025-09-10",
+    "slutdatum": "2025-11-14"
+  },
+  {
+    "varunummer": "579488",
+    "startdatum": "2025-09-11",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "029614",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-11-03"
+  },
+  {
+    "varunummer": "406024",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "038421",
+    "startdatum": "2024-09-23",
+    "slutdatum": "2026-01-15"
+  },
+  {
+    "varunummer": "106940",
+    "startdatum": "2024-10-18",
+    "slutdatum": "2026-01-15"
+  },
+  {
+    "varunummer": "106929",
+    "startdatum": "2024-10-18",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "093814",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-01-15"
+  },
+  {
+    "varunummer": "495891",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-01-16"
+  },
+  {
+    "varunummer": "412468",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "194091",
+    "startdatum": "2025-05-30",
+    "slutdatum": "2025-11-17"
+  },
+  {
+    "varunummer": "087229",
+    "startdatum": "2023-03-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "087240",
+    "startdatum": "2023-03-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "492058",
+    "startdatum": "2025-08-11",
+    "slutdatum": "2025-10-14"
+  },
+  {
+    "varunummer": "084629",
+    "startdatum": "2023-11-28",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "198266",
+    "startdatum": "2023-11-28",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "032239",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "436781",
+    "startdatum": "2024-11-25",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "081791",
+    "startdatum": "2024-11-25",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "508941",
+    "startdatum": "2024-05-15",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "471272",
+    "startdatum": "2024-06-24",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "080980",
+    "startdatum": "2025-07-28",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "075527",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "075493",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "407138",
+    "startdatum": "2025-04-15",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "462455",
+    "startdatum": "2025-09-10",
+    "slutdatum": "2025-12-30"
+  },
+  {
+    "varunummer": "097053",
+    "startdatum": "2025-07-14",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "447439",
+    "startdatum": "2024-08-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "135058",
+    "startdatum": "2025-08-14",
+    "slutdatum": "2025-10-10"
+  },
+  {
+    "varunummer": "084579",
+    "startdatum": "2025-09-09",
+    "slutdatum": "2025-12-19"
+  },
+  {
+    "varunummer": "486750",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "023746",
+    "startdatum": "2025-09-02",
+    "slutdatum": "2026-03-30"
+  },
+  {
+    "varunummer": "145629",
+    "startdatum": "2025-03-24"
+  },
+  {
+    "varunummer": "135275",
+    "startdatum": "2025-04-09",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "027058",
+    "startdatum": "2025-05-02",
+    "slutdatum": "2025-10-02"
+  },
+  {
+    "varunummer": "179607",
+    "startdatum": "2025-09-20",
+    "slutdatum": "2025-10-09"
+  },
+  {
+    "varunummer": "388818",
+    "startdatum": "2025-09-16",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "546061",
+    "startdatum": "2023-04-28",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "476704",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-24"
+  },
+  {
+    "varunummer": "556756",
+    "startdatum": "2025-02-01",
+    "slutdatum": "2026-02-28"
+  },
+  {
+    "varunummer": "066482",
+    "startdatum": "2024-07-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "472809",
+    "startdatum": "2024-11-13",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "596331",
+    "startdatum": "2025-08-11",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "452217",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "068649",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "052280",
+    "startdatum": "2024-09-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "059012",
+    "startdatum": "2025-05-31",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "530118",
+    "startdatum": "2025-08-28",
+    "slutdatum": "2028-07-30"
+  },
+  {
+    "varunummer": "078038",
+    "startdatum": "2025-09-18",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "015461",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "417821",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "471951",
+    "startdatum": "2024-08-28",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "045974",
+    "startdatum": "2025-01-29",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "571329",
+    "startdatum": "2024-12-09"
+  },
+  {
+    "varunummer": "571724",
+    "startdatum": "2024-11-01",
+    "slutdatum": "2026-05-31"
+  },
+  {
+    "varunummer": "478555",
+    "startdatum": "2025-05-20",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "446488",
+    "startdatum": "2025-08-06",
+    "slutdatum": "2025-12-29"
+  },
+  {
+    "varunummer": "415726",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-10-24"
+  },
+  {
+    "varunummer": "192517",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-12-29"
+  },
+  {
+    "varunummer": "466970",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "507925",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "524496",
+    "startdatum": "2025-06-30"
+  },
+  {
+    "varunummer": "028786",
+    "startdatum": "2025-05-16",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "125436",
+    "startdatum": "2025-04-17",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "014931",
+    "startdatum": "2025-05-09",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "011368",
+    "startdatum": "2025-07-22",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "011325",
+    "startdatum": "2025-07-22",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "087606",
+    "startdatum": "2025-05-12"
+  },
+  {
+    "varunummer": "478248",
+    "startdatum": "2024-09-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "046391",
+    "startdatum": "2023-10-09",
+    "slutdatum": "2026-03-30"
+  },
+  {
+    "varunummer": "467931",
+    "startdatum": "2025-08-11",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "537074",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "026159",
+    "startdatum": "2024-06-20",
+    "slutdatum": "2025-11-28"
+  },
+  {
+    "varunummer": "037992",
+    "startdatum": "2023-03-30",
+    "slutdatum": "2026-11-30"
+  },
+  {
+    "varunummer": "490875",
+    "startdatum": "2023-05-12",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "142055",
+    "startdatum": "2025-01-02",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "404426",
+    "startdatum": "2025-01-01",
+    "slutdatum": "2026-01-30"
+  },
+  {
+    "varunummer": "005494",
+    "startdatum": "2025-04-18",
+    "slutdatum": "2026-01-30"
+  },
+  {
+    "varunummer": "023635",
+    "startdatum": "2024-12-09",
+    "slutdatum": "2025-11-28"
+  },
+  {
+    "varunummer": "022845",
+    "startdatum": "2024-12-02",
+    "slutdatum": "2025-11-14"
+  },
+  {
+    "varunummer": "133315",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "189564",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "117206",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "500155",
+    "startdatum": "2023-09-22",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "520062",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "089420",
+    "startdatum": "2024-08-19",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "106132",
+    "startdatum": "2025-03-31",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "028531",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "459451",
+    "startdatum": "2025-08-11",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "044823",
+    "startdatum": "2025-05-20",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "044832",
+    "startdatum": "2025-06-15",
+    "slutdatum": "2025-11-20"
+  },
+  {
+    "varunummer": "019626",
+    "startdatum": "2025-04-14",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "044814",
+    "startdatum": "2025-07-15",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "019664",
+    "startdatum": "2025-06-15",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "137209",
+    "startdatum": "2025-06-15",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "019614",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2025-11-25"
+  },
+  {
+    "varunummer": "137198",
+    "startdatum": "2025-07-29",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "452543",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "422190",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "165016",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "424131",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "494361",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "373570",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "442779",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "446365",
+    "startdatum": "2025-08-11",
+    "slutdatum": "2025-11-19"
+  },
+  {
+    "varunummer": "394517",
+    "startdatum": "2025-07-30",
+    "slutdatum": "2025-11-19"
+  },
+  {
+    "varunummer": "548478",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "562694",
+    "startdatum": "2024-03-01",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "065769",
+    "startdatum": "2024-03-01",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "482738",
+    "startdatum": "2023-07-16",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "568179",
+    "startdatum": "2023-06-30",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "173992",
+    "startdatum": "2023-07-11",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "074173",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2026-01-26"
+  },
+  {
+    "varunummer": "074184",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2026-01-26"
+  },
+  {
+    "varunummer": "074196",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2026-01-26"
+  },
+  {
+    "varunummer": "101479",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-11-27"
+  },
+  {
+    "varunummer": "489756",
+    "startdatum": "2024-10-15",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "143386",
+    "startdatum": "2023-07-01",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "146916",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "057918",
+    "startdatum": "2025-05-14",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "409952",
+    "startdatum": "2025-04-09",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "070557",
+    "startdatum": "2025-04-09",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "568293",
+    "startdatum": "2025-04-09",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "475379",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-24"
+  },
+  {
+    "varunummer": "450104",
+    "startdatum": "2023-01-01",
+    "slutdatum": "2026-01-31"
+  },
+  {
+    "varunummer": "585289",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "133722",
+    "startdatum": "2024-12-17",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "031166",
+    "startdatum": "2025-09-15"
+  },
+  {
+    "varunummer": "537499",
+    "startdatum": "2024-12-13",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "502616",
+    "startdatum": "2024-12-13",
+    "slutdatum": "2026-04-01"
+  },
+  {
+    "varunummer": "463309",
+    "startdatum": "2025-07-28",
+    "slutdatum": "2026-02-01"
+  },
+  {
+    "varunummer": "434806",
+    "startdatum": "2025-08-28",
+    "slutdatum": "2026-01-13"
+  },
+  {
+    "varunummer": "412963",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "539974",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-02-01"
+  },
+  {
+    "varunummer": "443941",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "571288",
+    "startdatum": "2024-11-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "060488",
+    "startdatum": "2024-11-12",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "419244",
+    "startdatum": "2024-11-12",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "514569",
+    "startdatum": "2024-11-28",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "049620",
+    "startdatum": "2024-11-28",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "049204",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "459992",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "479470",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "444632",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "137377",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "595237",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "593698",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "169332",
+    "startdatum": "2025-04-10",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "490457",
+    "startdatum": "2025-09-11",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "115941",
+    "startdatum": "2023-08-11",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "032024",
+    "startdatum": "2023-12-15",
+    "slutdatum": "2026-09-30"
+  },
+  {
+    "varunummer": "598694",
+    "startdatum": "2025-03-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "469702",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "056376",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "452025",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "581699",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2025-12-15"
+  },
+  {
+    "varunummer": "119710",
+    "startdatum": "2025-03-20",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "100807",
+    "startdatum": "2025-06-24",
+    "slutdatum": "2025-12-18"
+  },
+  {
+    "varunummer": "508350",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-11-27"
+  },
+  {
+    "varunummer": "147788",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-12-04"
+  },
+  {
+    "varunummer": "138302",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "101911",
+    "startdatum": "2025-08-04",
+    "slutdatum": "2025-11-10"
+  },
+  {
+    "varunummer": "449410",
+    "startdatum": "2024-12-20",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "370763",
+    "startdatum": "2025-08-08",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "137996",
+    "startdatum": "2025-06-11",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "134512",
+    "startdatum": "2025-06-11",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "061354",
+    "startdatum": "2025-09-17",
+    "slutdatum": "2025-11-07"
+  },
+  {
+    "varunummer": "401007",
+    "startdatum": "2025-06-09",
+    "slutdatum": "2025-11-28"
+  },
+  {
+    "varunummer": "470267",
+    "startdatum": "2025-07-03",
+    "slutdatum": "2025-11-19"
+  },
+  {
+    "varunummer": "146965",
+    "startdatum": "2025-06-09",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "002485",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "573111",
+    "startdatum": "2025-08-26",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "576261",
+    "startdatum": "2024-09-19",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "593767",
+    "startdatum": "2024-12-17",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "511002",
+    "startdatum": "2025-01-24",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "598044",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "000750",
+    "startdatum": "2025-08-28",
+    "slutdatum": "2026-01-16"
+  },
+  {
+    "varunummer": "135476",
+    "startdatum": "2024-12-02",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "447633",
+    "startdatum": "2024-12-02",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "383424",
+    "startdatum": "2024-12-11",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "076166",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2025-10-24"
+  },
+  {
+    "varunummer": "160531",
+    "startdatum": "2025-07-15",
+    "slutdatum": "2025-10-28"
+  },
+  {
+    "varunummer": "491753",
+    "startdatum": "2025-03-30",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "377832",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "404325",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "564824",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "110332",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "147881",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "104160",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "502704",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "066497",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-12-25"
+  },
+  {
+    "varunummer": "104688",
+    "startdatum": "2025-07-02",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "564150",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "178991",
+    "startdatum": "2025-01-15",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "152410",
+    "startdatum": "2024-12-06",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "459838",
+    "startdatum": "2025-01-31",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "533028",
+    "startdatum": "2025-02-24",
+    "slutdatum": "2025-11-17"
+  },
+  {
+    "varunummer": "571902",
+    "startdatum": "2025-07-17",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "390362",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "076657",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "373114",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "077237",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "070709",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "474659",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "584716",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "457015",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "424581",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "522801",
+    "startdatum": "2025-08-15",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "113607",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "435004",
+    "startdatum": "2025-08-05",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "074053",
+    "startdatum": "2025-08-27",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "437672",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "054346",
+    "startdatum": "2023-04-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "569678",
+    "startdatum": "2024-12-16",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "124777",
+    "startdatum": "2025-07-02",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "475916",
+    "startdatum": "2024-11-30"
+  },
+  {
+    "varunummer": "192313",
+    "startdatum": "2025-03-10"
+  },
+  {
+    "varunummer": "495836",
+    "startdatum": "2025-03-15",
+    "slutdatum": "2025-10-06"
+  },
+  {
+    "varunummer": "453862",
+    "startdatum": "2025-01-05",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "503645",
+    "startdatum": "2025-04-30",
+    "slutdatum": "2025-10-23"
+  },
+  {
+    "varunummer": "017762",
+    "startdatum": "2025-02-28",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "017787",
+    "startdatum": "2025-03-12",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "017763",
+    "startdatum": "2025-03-19",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "017773",
+    "startdatum": "2025-04-04",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "017809",
+    "startdatum": "2025-04-25",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "079901",
+    "startdatum": "2024-12-10"
+  },
+  {
+    "varunummer": "079901",
+    "startdatum": "2024-12-10"
+  },
+  {
+    "varunummer": "424308",
+    "startdatum": "2024-12-20"
+  },
+  {
+    "varunummer": "424308",
+    "startdatum": "2024-12-20"
+  },
+  {
+    "varunummer": "100799",
+    "startdatum": "2024-08-28",
+    "slutdatum": "2026-03-01"
+  },
+  {
+    "varunummer": "061856",
+    "startdatum": "2025-04-22",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "494858",
+    "startdatum": "2025-05-07",
+    "slutdatum": "2025-11-15"
+  },
+  {
+    "varunummer": "163709",
+    "startdatum": "2025-09-18",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "434845",
+    "startdatum": "2025-04-14",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "189054",
+    "startdatum": "2025-06-09",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "128097",
+    "startdatum": "2025-08-27",
+    "slutdatum": "2025-10-12"
+  },
+  {
+    "varunummer": "524664",
+    "startdatum": "2025-07-15",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "097515",
+    "startdatum": "2025-07-16",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "138728",
+    "startdatum": "2024-08-29",
+    "slutdatum": "2026-02-20"
+  },
+  {
+    "varunummer": "112915",
+    "startdatum": "2025-01-22",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "489583",
+    "startdatum": "2025-01-26",
+    "slutdatum": "2026-02-20"
+  },
+  {
+    "varunummer": "573677",
+    "startdatum": "2025-08-18",
+    "slutdatum": "2025-11-26"
+  },
+  {
+    "varunummer": "575139",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "145374",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "",
+    "startdatum": "2025-09-17",
+    "slutdatum": "2026-06-26"
+  },
+  {
+    "varunummer": "158659",
+    "startdatum": "2025-09-09",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "464724",
+    "startdatum": "2025-04-02",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "068205",
+    "startdatum": "2025-08-05",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "161901",
+    "startdatum": "2023-12-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "155326",
+    "startdatum": "2023-12-18",
+    "slutdatum": "2025-10-27"
+  },
+  {
+    "varunummer": "397333",
+    "startdatum": "2023-11-20",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "013621",
+    "startdatum": "2024-09-20",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "048125",
+    "startdatum": "2025-01-17",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "070343",
+    "startdatum": "2025-01-08",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "070343",
+    "startdatum": "2025-01-08",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "079032",
+    "startdatum": "2025-05-01",
+    "slutdatum": "2025-10-28"
+  },
+  {
+    "varunummer": "079050",
+    "startdatum": "2025-05-10",
+    "slutdatum": "2026-03-30"
+  },
+  {
+    "varunummer": "079077",
+    "startdatum": "2025-05-01",
+    "slutdatum": "2025-10-28"
+  },
+  {
+    "varunummer": "024485",
+    "startdatum": "2025-03-06",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "024366",
+    "startdatum": "2025-03-06",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "024365",
+    "startdatum": "2025-03-06",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "024276",
+    "startdatum": "2025-03-06",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "516099",
+    "startdatum": "2025-06-13",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "483480",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "039566",
+    "startdatum": "2025-03-06",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "396769",
+    "startdatum": "2025-03-06",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "141810",
+    "startdatum": "2025-03-06",
+    "slutdatum": "2025-12-24"
+  },
+  {
+    "varunummer": "585005",
+    "startdatum": "2025-05-23",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "438059",
+    "startdatum": "2024-11-18",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "515661",
+    "startdatum": "2025-03-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "023801",
+    "startdatum": "2025-02-18",
+    "slutdatum": "2026-08-01"
+  },
+  {
+    "varunummer": "380023",
+    "startdatum": "2024-11-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "519395",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "543238",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "382156",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "133896",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "449219",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "417874",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "530418",
+    "startdatum": "2024-09-25",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "021469",
+    "startdatum": "2025-09-17",
+    "slutdatum": "2025-10-17"
+  },
+  {
+    "varunummer": "454141",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "406880",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "521283",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "434387",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "573080",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "086409",
+    "startdatum": "2023-06-27",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "062697",
+    "startdatum": "2025-06-10",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "166726",
+    "startdatum": "2025-08-29",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "515505",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-11-18"
+  },
+  {
+    "varunummer": "553469",
+    "startdatum": "2025-04-01",
+    "slutdatum": "2025-11-18"
+  },
+  {
+    "varunummer": "064365",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2026-01-20"
+  },
+  {
+    "varunummer": "024633",
+    "startdatum": "2025-09-18",
+    "slutdatum": "2025-10-13"
+  },
+  {
+    "varunummer": "133685",
+    "startdatum": "2025-08-30",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "572351",
+    "startdatum": "2023-10-16",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "123682",
+    "startdatum": "2025-05-12",
+    "slutdatum": "2025-11-22"
+  },
+  {
+    "varunummer": "093140",
+    "startdatum": "2025-04-28",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "130441",
+    "startdatum": "2025-03-01"
+  },
+  {
+    "varunummer": "510497",
+    "startdatum": "2025-08-31",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "515918",
+    "startdatum": "2025-06-13",
+    "slutdatum": "2025-10-10"
+  },
+  {
+    "varunummer": "399780",
+    "startdatum": "2025-06-13",
+    "slutdatum": "2025-10-10"
+  },
+  {
+    "varunummer": "519856",
+    "startdatum": "2023-06-26",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "069091",
+    "startdatum": "2023-06-26",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "490428",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "561541",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "152104",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-07-01"
+  },
+  {
+    "varunummer": "096768",
+    "startdatum": "2023-08-10",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "385065",
+    "startdatum": "2023-03-18",
+    "slutdatum": "2026-03-31"
+  },
+  {
+    "varunummer": "589708",
+    "startdatum": "2025-05-20",
+    "slutdatum": "2026-02-27"
+  },
+  {
+    "varunummer": "544902",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-09-26"
+  },
+  {
+    "varunummer": "469605",
+    "startdatum": "2025-04-10",
+    "slutdatum": "2025-10-21"
+  },
+  {
+    "varunummer": "411478",
+    "startdatum": "2025-09-15",
+    "slutdatum": "2026-04-23"
+  },
+  {
+    "varunummer": "412924",
+    "startdatum": "2024-11-11",
+    "slutdatum": "2025-12-01"
+  },
+  {
+    "varunummer": "560595",
+    "startdatum": "2025-06-11",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "114557",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "431604",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "120994",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "027402",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2025-10-02"
+  },
+  {
+    "varunummer": "485473",
+    "startdatum": "2025-06-02",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "421556",
+    "startdatum": "2025-06-01",
+    "slutdatum": "2025-12-19"
+  },
+  {
+    "varunummer": "137863",
+    "startdatum": "2024-02-01",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "135624",
+    "startdatum": "2025-09-12",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "550922",
+    "startdatum": "2024-11-16",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "561815",
+    "startdatum": "2025-03-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "488308",
+    "startdatum": "2025-03-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "540639",
+    "startdatum": "2025-02-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "454102",
+    "startdatum": "2025-03-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "180697",
+    "startdatum": "2025-03-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "079565",
+    "startdatum": "2025-03-24",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "540946",
+    "startdatum": "2025-05-12",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "388654",
+    "startdatum": "2025-05-12",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "030797",
+    "startdatum": "2025-05-12",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "058981",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-10-24"
+  },
+  {
+    "varunummer": "542581",
+    "startdatum": "2025-08-19",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "091739",
+    "startdatum": "2025-08-26",
+    "slutdatum": "2025-10-15"
+  },
+  {
+    "varunummer": "044161",
+    "startdatum": "2025-02-15",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "581446",
+    "startdatum": "2025-03-15",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "568415",
+    "startdatum": "2025-07-14",
+    "slutdatum": "2025-09-20"
+  },
+  {
+    "varunummer": "000555",
+    "startdatum": "2025-08-25",
+    "slutdatum": "2025-10-03"
+  },
+  {
+    "varunummer": "073925",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2026-02-25"
+  },
+  {
+    "varunummer": "162441",
+    "startdatum": "2025-06-02",
+    "slutdatum": "2025-11-17"
+  },
+  {
+    "varunummer": "124902",
+    "startdatum": "2025-08-06",
+    "slutdatum": "2025-10-08"
+  },
+  {
+    "varunummer": "582532",
+    "startdatum": "2025-07-29",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "430046",
+    "startdatum": "2025-08-06",
+    "slutdatum": "2025-10-08"
+  },
+  {
+    "varunummer": "564229",
+    "startdatum": "2025-06-23",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "578853",
+    "startdatum": "2025-03-15",
+    "slutdatum": "2025-11-20"
+  },
+  {
+    "varunummer": "031788",
+    "startdatum": "2025-07-02",
+    "slutdatum": "2025-11-20"
+  },
+  {
+    "varunummer": "549467",
+    "startdatum": "2025-07-31",
+    "slutdatum": "2025-11-28"
+  },
+  {
+    "varunummer": "552401",
+    "startdatum": "2025-05-27",
+    "slutdatum": "2025-12-19"
+  },
+  {
+    "varunummer": "128262",
+    "startdatum": "2025-08-05",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "133635",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-11-21"
+  },
+  {
+    "varunummer": "152543",
+    "startdatum": "2023-05-30"
+  },
+  {
+    "varunummer": "577589",
+    "startdatum": "2025-01-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "044961",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "492904",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "115445",
+    "startdatum": "2025-08-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "079269",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-10-06"
+  },
+  {
+    "varunummer": "071101",
+    "startdatum": "2025-03-17",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "571172",
+    "startdatum": "2025-06-25",
+    "slutdatum": "2025-11-12"
+  },
+  {
+    "varunummer": "058659",
+    "startdatum": "2025-09-08",
+    "slutdatum": "2025-11-30"
+  },
+  {
+    "varunummer": "032930",
+    "startdatum": "2025-03-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "142533",
+    "startdatum": "2025-03-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "385469",
+    "startdatum": "2025-03-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "575091",
+    "startdatum": "2025-03-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "155254",
+    "startdatum": "2025-03-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "120177",
+    "startdatum": "2025-09-05",
+    "slutdatum": "2026-01-04"
+  },
+  {
+    "varunummer": "496009",
+    "startdatum": "2023-05-15",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "477469",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "514749",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "050140",
+    "startdatum": "2025-07-01",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "040479",
+    "startdatum": "2025-08-28",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "403237",
+    "startdatum": "2024-01-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "485484",
+    "startdatum": "2024-07-15",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "171258",
+    "startdatum": "2024-08-15",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "428392",
+    "startdatum": "2025-07-15",
+    "slutdatum": "2025-10-30"
+  },
+  {
+    "varunummer": "057376",
+    "startdatum": "2024-04-11",
+    "slutdatum": "2025-10-16"
+  },
+  {
+    "varunummer": "059378",
+    "startdatum": "2024-09-20",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "476606",
+    "startdatum": "2024-07-01",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "500045",
+    "startdatum": "2024-10-28",
+    "slutdatum": "2025-10-28"
+  },
+  {
+    "varunummer": "500841",
+    "startdatum": "2024-10-17",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "525020",
+    "startdatum": "2024-11-07",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "035197",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "001726",
+    "startdatum": "2025-01-15",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "035178",
+    "startdatum": "2025-09-06",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "398806",
+    "startdatum": "2023-07-01",
+    "slutdatum": "2026-08-31"
+  },
+  {
+    "varunummer": "111163",
+    "startdatum": "2025-01-15",
+    "slutdatum": "2026-01-01"
+  },
+  {
+    "varunummer": "406899",
+    "startdatum": "2024-07-24",
+    "slutdatum": "2025-08-28"
+  },
+  {
+    "varunummer": "570746",
+    "startdatum": "2025-09-04",
+    "slutdatum": "2025-10-01"
+  },
+  {
+    "varunummer": "002616",
+    "startdatum": "2020-11-01",
+    "slutdatum": "2025-12-31"
+  },
+  {
+    "varunummer": "527095",
+    "startdatum": "2025-06-02",
+    "slutdatum": "2025-12-04"
+  },
+  {
+    "varunummer": "425838",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2025-10-06"
+  },
+  {
+    "varunummer": "013593",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "048546",
+    "startdatum": "2025-09-19",
+    "slutdatum": "2025-10-20"
+  },
+  {
+    "varunummer": "106747",
+    "startdatum": "2025-07-14",
+    "slutdatum": "2026-06-30"
+  },
+  {
+    "varunummer": "419969",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "599855",
+    "startdatum": "2025-05-15",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "461122",
+    "startdatum": "2025-02-28",
+    "slutdatum": "2025-10-31"
+  },
+  {
+    "varunummer": "199259",
+    "startdatum": "2025-08-06",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "370307",
+    "startdatum": "2025-08-27",
+    "slutdatum": "2025-11-14"
+  },
+  {
+    "varunummer": "104965",
+    "startdatum": "2024-11-16",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "104427",
+    "startdatum": "2024-10-16",
+    "slutdatum": "2025-11-01"
+  },
+  {
+    "varunummer": "503329",
+    "startdatum": "2025-08-22",
+    "slutdatum": "2026-01-12"
+  },
+  {
+    "varunummer": "186121",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "535878",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "384789",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2026-12-31"
+  },
+  {
+    "varunummer": "027622",
+    "startdatum": "2025-08-20",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "027988",
+    "startdatum": "2025-02-01",
+    "slutdatum": "2025-12-05"
+  },
+  {
+    "varunummer": "027976",
+    "startdatum": "2025-02-09",
+    "slutdatum": "2026-01-02"
+  },
+  {
+    "varunummer": "027999",
+    "startdatum": "2025-03-09",
+    "slutdatum": "2025-09-30"
+  },
+  {
+    "varunummer": "176214",
+    "startdatum": "2025-03-30",
+    "slutdatum": "2025-09-25"
+  },
+  {
+    "varunummer": "123297",
+    "startdatum": "2025-09-01",
+    "slutdatum": "2025-10-01"
+  }
+]

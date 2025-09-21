@@ -1,4498 +1,5404 @@
 [
   {
     "varunummer": "599899",
+    "npl_packid": "20200114100090",
     "startdatum": "2023-02-22",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "039246",
+    "npl_packid": "20190110100180",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "067805",
+    "npl_packid": "20050223100036",
     "startdatum": "2025-02-26",
     "slutdatum": "2025-09-24"
   },
   {
     "varunummer": "203679",
+    "npl_packid": "20090302100151",
     "startdatum": "2022-11-07"
   },
   {
     "varunummer": "538461",
+    "npl_packid": "20200331100057",
     "startdatum": "2024-11-12",
     "slutdatum": "2025-12-20"
   },
   {
     "varunummer": "169659",
+    "npl_packid": "20250227100128",
     "startdatum": "2025-07-04",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "014465",
+    "npl_packid": "20030402100033",
     "startdatum": "2025-08-20",
     "slutdatum": "2025-10-08"
   },
   {
     "varunummer": "405647",
+    "npl_packid": "19810101100084",
     "startdatum": "2025-09-17",
     "slutdatum": "2025-10-13"
   },
   {
     "varunummer": "072639",
+    "npl_packid": "20071115100200",
     "startdatum": "2024-02-10",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "088653",
+    "npl_packid": "20070312100204",
     "startdatum": "2024-12-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "452862",
+    "npl_packid": "10010101121617",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "468909",
+    "npl_packid": "20140306100159",
     "startdatum": "2024-07-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "500228",
+    "npl_packid": "20161012100059",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "087548",
+    "npl_packid": "20070824100266",
     "startdatum": "2024-03-13",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "087525",
+    "npl_packid": "20070824100242",
     "startdatum": "2024-12-16",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "087514",
+    "npl_packid": "20070824100044",
     "startdatum": "2025-07-16",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "394499",
+    "npl_packid": "20170913100129",
     "startdatum": "2024-08-22",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "590717",
+    "npl_packid": "20170913100334",
     "startdatum": "2024-11-20",
     "slutdatum": "2025-12-04"
   },
   {
     "varunummer": "195135",
+    "npl_packid": "20170913100150",
     "startdatum": "2025-03-05",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "172414",
+    "npl_packid": "20170913100259",
     "startdatum": "2025-06-10",
     "slutdatum": "2025-12-12"
   },
   {
     "varunummer": "046825",
+    "npl_packid": "20170913100365",
     "startdatum": "2025-06-10",
     "slutdatum": "2025-12-12"
   },
   {
     "varunummer": "449707",
+    "npl_packid": "20170913100433",
     "startdatum": "2025-06-20",
     "slutdatum": "2025-12-18"
   },
   {
     "varunummer": "083818",
+    "npl_packid": "20170913100464",
     "startdatum": "2025-06-16",
     "slutdatum": "2025-12-18"
   },
   {
     "varunummer": "016176",
+    "npl_packid": "20031103100360",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "401013",
+    "npl_packid": "20180713100151",
     "startdatum": "2025-04-11",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "112661",
+    "npl_packid": "20170727100025",
     "startdatum": "2025-08-20",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "407024",
+    "npl_packid": "20060821100482",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "038537",
+    "npl_packid": "20200224100096",
     "startdatum": "2023-05-09",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "018874",
+    "npl_packid": "20031103100155",
     "startdatum": "2024-02-10",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "077111",
+    "npl_packid": "20080213100111",
     "startdatum": "2023-10-17",
     "slutdatum": "2025-10-07"
   },
   {
     "varunummer": "564414",
+    "npl_packid": "20170602100553",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "509981",
+    "npl_packid": "19730525100036",
     "startdatum": "2025-03-24",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "033708",
+    "npl_packid": "20180201100533",
     "startdatum": "2025-05-01",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "006821",
+    "npl_packid": "20010605100023",
     "startdatum": "2024-09-27",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "584577",
+    "npl_packid": "20171215100237",
     "startdatum": "2025-03-21",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "528144",
+    "npl_packid": "20171207100061",
     "startdatum": "2024-10-06",
     "slutdatum": "2025-09-15"
   },
   {
     "varunummer": "034156",
+    "npl_packid": "20171207100016",
     "startdatum": "2025-03-17",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "524578",
+    "npl_packid": "20141118100054",
     "startdatum": "2024-06-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "098023",
+    "npl_packid": "20070126100094",
     "startdatum": "2024-04-26",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "154001",
+    "npl_packid": "20170426100425",
     "startdatum": "2025-09-15",
     "slutdatum": "2027-12-31"
   },
   {
     "varunummer": "552726",
+    "npl_packid": "20170908100165",
     "startdatum": "2023-08-09",
     "slutdatum": "2026-03-01"
   },
   {
     "varunummer": "035249",
+    "npl_packid": "20180626100033",
     "startdatum": "2025-07-14",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "377340",
+    "npl_packid": "20060330100065",
     "startdatum": "2025-02-01"
   },
   {
     "varunummer": "466687",
+    "npl_packid": "20060330100089",
     "startdatum": "2025-02-01"
   },
   {
     "varunummer": "157551",
+    "npl_packid": "20060330100041",
     "startdatum": "2025-02-01"
   },
   {
     "varunummer": "195040",
+    "npl_packid": "19931001100339",
     "startdatum": "2025-09-10",
     "slutdatum": "2025-09-22"
   },
   {
     "varunummer": "564996",
+    "npl_packid": "20171027100630",
     "startdatum": "2024-05-20",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "566937",
+    "npl_packid": "20181004100164",
     "startdatum": "2025-04-04",
     "slutdatum": "2025-10-17"
   },
   {
     "varunummer": "163424",
+    "npl_packid": "20211111100112",
     "startdatum": "2024-09-13",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "436353",
+    "npl_packid": "20171025100328",
     "startdatum": "2025-08-18",
     "slutdatum": "2025-09-22"
   },
   {
     "varunummer": "451515",
+    "npl_packid": "20170118100146",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-02-01"
   },
   {
     "varunummer": "197006",
+    "npl_packid": "20180130100789",
     "startdatum": "2023-11-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "177429",
+    "npl_packid": "20180130100161",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "477081",
+    "npl_packid": "20180130100291",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "178650",
+    "npl_packid": "20180130100307",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "442150",
+    "npl_packid": "20180130100352",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "411846",
+    "npl_packid": "20180130100376",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "136954",
+    "npl_packid": "20180130100482",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "489669",
+    "npl_packid": "20180130100543",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "383944",
+    "npl_packid": "20180130100666",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "453350",
+    "npl_packid": "20180130100901",
     "startdatum": "2024-05-21",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "017680",
+    "npl_packid": "20030529100015",
     "startdatum": "2025-04-02",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "563407",
+    "npl_packid": "20180809100584",
     "startdatum": "2025-02-13",
     "slutdatum": "2025-12-25"
   },
   {
     "varunummer": "495962",
+    "npl_packid": "20180809100447",
     "startdatum": "2025-03-20",
     "slutdatum": "2025-12-25"
   },
   {
     "varunummer": "554405",
+    "npl_packid": "20180809100140",
     "startdatum": "2025-03-28",
     "slutdatum": "2025-12-25"
   },
   {
     "varunummer": "061072",
+    "npl_packid": "20121213100012",
     "startdatum": "2025-03-17",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "034313",
+    "npl_packid": "20230817100338",
     "startdatum": "2025-06-02"
   },
   {
     "varunummer": "008082",
+    "npl_packid": "20020419100218",
     "startdatum": "2023-07-11",
     "slutdatum": "2027-04-30"
   },
   {
     "varunummer": "088261",
+    "npl_packid": "20061109100750",
     "startdatum": "2024-01-09",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "173684",
+    "npl_packid": "20100927100143",
     "startdatum": "2025-06-13",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "444760",
+    "npl_packid": "19880401100305",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-09-19"
   },
   {
     "varunummer": "066722",
+    "npl_packid": "20190429100079",
     "startdatum": "2024-05-20",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "448017",
+    "npl_packid": "20230227100052",
     "startdatum": "2025-03-10",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "518045",
+    "npl_packid": "20130903100447",
     "startdatum": "2025-04-28",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "547850",
+    "npl_packid": "20110204100032",
     "startdatum": "2024-03-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "157206",
+    "npl_packid": "19910401100071",
     "startdatum": "2025-02-10",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "129450",
+    "npl_packid": "20181112100216",
     "startdatum": "2025-09-09",
     "slutdatum": "2025-11-14"
   },
   {
     "varunummer": "467474",
+    "npl_packid": "20180125100046",
     "startdatum": "2025-07-22",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "374086",
+    "npl_packid": "20220630100053",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-12-15"
   },
   {
     "varunummer": "083422",
+    "npl_packid": "20180202100099",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "374183",
+    "npl_packid": "20180202100051",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "188154",
+    "npl_packid": "20201112100075",
     "startdatum": "2024-10-16",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "505495",
+    "npl_packid": "20011005100507",
     "startdatum": "2025-09-03",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "180847",
+    "npl_packid": "20120301100026",
     "startdatum": "2025-09-15"
   },
   {
     "varunummer": "015381",
+    "npl_packid": "20040623100064",
     "startdatum": "2025-09-10",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "008268",
+    "npl_packid": "19620401100017",
     "startdatum": "2025-07-01",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "070565",
+    "npl_packid": "19620401100024",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "157386",
+    "npl_packid": "20160811100178",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "519544",
+    "npl_packid": "20160811100284",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "554391",
+    "npl_packid": "20160811100314",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "557897",
+    "npl_packid": "20160811100345",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "112930",
+    "npl_packid": "20160811100413",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "154547",
+    "npl_packid": "20160811100437",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "506056",
+    "npl_packid": "20160811100475",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "498222",
+    "npl_packid": "20160811100505",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "404709",
+    "npl_packid": "20160811100536",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "456539",
+    "npl_packid": "20160811100604",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "037398",
+    "npl_packid": "20160811100628",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "434038",
+    "npl_packid": "20070112100091",
     "startdatum": "2024-09-27",
     "slutdatum": "2026-10-31"
   },
   {
     "varunummer": "464802",
+    "npl_packid": "20150219100146",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-02-28"
   },
   {
     "varunummer": "142914",
+    "npl_packid": "20150414100361",
     "startdatum": "2024-03-08",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "071029",
+    "npl_packid": "20150414100187",
     "startdatum": "2025-03-13",
     "slutdatum": "2025-11-06"
   },
   {
     "varunummer": "530580",
+    "npl_packid": "20180608100143",
     "startdatum": "2021-10-04",
     "slutdatum": "2027-07-01"
   },
   {
     "varunummer": "142907",
+    "npl_packid": "20180608100112",
     "startdatum": "2022-06-20",
     "slutdatum": "2027-07-01"
   },
   {
     "varunummer": "475453",
+    "npl_packid": "20180608100129",
     "startdatum": "2022-08-10",
     "slutdatum": "2027-07-01"
   },
   {
     "varunummer": "058185",
+    "npl_packid": "20180608100136",
     "startdatum": "2022-07-04",
     "slutdatum": "2027-07-01"
   },
   {
     "varunummer": "398691",
+    "npl_packid": "20200820100278",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "097973",
+    "npl_packid": "20100302100522",
     "startdatum": "2025-08-15",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "378785",
+    "npl_packid": "20230103100077",
     "startdatum": "2025-03-13",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "006921",
+    "npl_packid": "20010406100192",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "509200",
+    "npl_packid": "20121228100151",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "510726",
+    "npl_packid": "20101019100614",
     "startdatum": "2025-04-20",
     "slutdatum": "2025-09-29"
   },
   {
     "varunummer": "095892",
+    "npl_packid": "20151217100190",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-11-12"
   },
   {
     "varunummer": "467151",
+    "npl_packid": "20151217100411",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-11-12"
   },
   {
     "varunummer": "460625",
+    "npl_packid": "20211013100135",
     "startdatum": "2024-10-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "527947",
+    "npl_packid": "20210920100078",
     "startdatum": "2024-07-01",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "585688",
+    "npl_packid": "20210920100085",
     "startdatum": "2024-06-01",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "428446",
+    "npl_packid": "20180615100020",
     "startdatum": "2024-02-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "531262",
+    "npl_packid": "20180615100051",
     "startdatum": "2024-06-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "097917",
+    "npl_packid": "20230310100242",
     "startdatum": "2025-08-18",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "007028",
+    "npl_packid": "20010806100013",
     "startdatum": "2025-07-15",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "000432",
+    "npl_packid": "10010101123772",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "182894",
+    "npl_packid": "20230308100230",
     "startdatum": "2025-05-09",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "095219",
+    "npl_packid": "20230308100308",
     "startdatum": "2025-03-03",
     "slutdatum": "2025-10-29"
   },
   {
     "varunummer": "573169",
+    "npl_packid": "20230308100179",
     "startdatum": "2025-05-28",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "547233",
+    "npl_packid": "20230308100216",
     "startdatum": "2025-05-16",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "176003",
+    "npl_packid": "20191029100186",
     "startdatum": "2024-08-01",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "075806",
+    "npl_packid": "10010101106584",
     "startdatum": "2023-03-15",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "125736",
+    "npl_packid": "20180228100134",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "009900",
+    "npl_packid": "19830701100048",
     "startdatum": "2023-02-01",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "045031",
+    "npl_packid": "20220823100082",
     "startdatum": "2025-09-19",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "189955",
+    "npl_packid": "20080129100090",
     "startdatum": "2023-11-17",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "531357",
+    "npl_packid": "20101001101469",
     "startdatum": "2025-06-12",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "085830",
+    "npl_packid": "20081031100079",
     "startdatum": "2025-07-15",
     "slutdatum": "2026-03-01"
   },
   {
     "varunummer": "495977",
+    "npl_packid": "20201105100174",
     "startdatum": "2025-06-03",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "142615",
+    "npl_packid": "20150310100533",
     "startdatum": "2025-07-14",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "443962",
+    "npl_packid": "20210817100105",
     "startdatum": "2025-02-26",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "056758",
+    "npl_packid": "20210817100112",
     "startdatum": "2025-06-10",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "012451",
+    "npl_packid": "20010615100242",
     "startdatum": "2023-07-11",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "012483",
+    "npl_packid": "20010615100204",
     "startdatum": "2025-06-23",
     "slutdatum": "2026-03-06"
   },
   {
     "varunummer": "181707",
+    "npl_packid": "20120524100162",
     "startdatum": "2023-04-04",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "001120",
+    "npl_packid": "19991203100124",
     "startdatum": "2025-05-27",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "421006",
+    "npl_packid": "20130111100512",
     "startdatum": "2025-02-26",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "074377",
+    "npl_packid": "20121017100058",
     "startdatum": "2025-09-09",
     "slutdatum": "2025-10-22"
   },
   {
     "varunummer": "018596",
+    "npl_packid": "10010101103057",
     "startdatum": "2025-09-12",
     "slutdatum": "2026-03-01"
   },
   {
     "varunummer": "002947",
+    "npl_packid": "20000922100455",
     "startdatum": "2022-06-01",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "497395",
+    "npl_packid": "20190429100024",
     "startdatum": "2024-10-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "379142",
+    "npl_packid": "20190429100093",
     "startdatum": "2024-10-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "178729",
+    "npl_packid": "20190429100130",
     "startdatum": "2024-10-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "179758",
+    "npl_packid": "20180816100058",
     "startdatum": "2025-03-14",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "081140",
+    "npl_packid": "20101115100266",
     "startdatum": "2024-10-24",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "135726",
+    "npl_packid": "20101115100419",
     "startdatum": "2024-12-17",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "065978",
+    "npl_packid": "20060627100822",
     "startdatum": "2024-08-16",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "520326",
+    "npl_packid": "20160614100085",
     "startdatum": "2025-07-04",
     "slutdatum": "2026-02-15"
   },
   {
     "varunummer": "590284",
+    "npl_packid": "20171010100326",
     "startdatum": "2025-09-11",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "461201",
+    "npl_packid": "20090619100028",
     "startdatum": "2025-03-28",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "406392",
+    "npl_packid": "20220221100240",
     "startdatum": "2025-05-20",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "414664",
+    "npl_packid": "19920101100332",
     "startdatum": "2024-07-20",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "414631",
+    "npl_packid": "19920101100325",
     "startdatum": "2024-11-01",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "488087",
+    "npl_packid": "20140226100093",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "027398",
+    "npl_packid": "20140226100116",
     "startdatum": "2025-06-02",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "161365",
+    "npl_packid": "20140226100109",
     "startdatum": "2025-09-10",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "033703",
+    "npl_packid": "20150115100349",
     "startdatum": "2025-08-15",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "447012",
+    "npl_packid": "20170105100159",
     "startdatum": "2022-01-28",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "522133",
+    "npl_packid": "20170105100074",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "193374",
+    "npl_packid": "20120514100103",
     "startdatum": "2025-06-02",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "480303",
+    "npl_packid": "20160310100143",
     "startdatum": "2025-05-22",
     "slutdatum": "2025-12-19"
   },
   {
     "varunummer": "597522",
+    "npl_packid": "20160614100221",
     "startdatum": "2025-02-04",
     "slutdatum": "2026-01-23"
   },
   {
     "varunummer": "172002",
+    "npl_packid": "20170830100110",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "107449",
+    "npl_packid": "20160614100214",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-12-19"
   },
   {
     "varunummer": "460835",
+    "npl_packid": "20170830100097",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-17"
   },
   {
     "varunummer": "415428",
+    "npl_packid": "20210517100726",
     "startdatum": "2024-04-23",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "073224",
+    "npl_packid": "19960401100045",
     "startdatum": "2024-04-23",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "064005",
+    "npl_packid": "20061201100092",
     "startdatum": "2024-04-23",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "568735",
+    "npl_packid": "20240520100017",
     "startdatum": "2025-08-05",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "073805",
+    "npl_packid": "10010101111311",
     "startdatum": "2024-04-23",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "182666",
+    "npl_packid": "20171003100203",
     "startdatum": "2024-03-28",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "438052",
+    "npl_packid": "20201027100160",
     "startdatum": "2025-08-20",
     "slutdatum": "2025-12-15"
   },
   {
     "varunummer": "455653",
+    "npl_packid": "20200602100113",
     "startdatum": "2025-05-19",
     "slutdatum": "2025-10-09"
   },
   {
     "varunummer": "021899",
+    "npl_packid": "19720101100062",
     "startdatum": "2025-04-24"
   },
   {
     "varunummer": "063060",
+    "npl_packid": "20050721100132",
     "startdatum": "2025-02-21",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "576954",
+    "npl_packid": "20130108100037",
     "startdatum": "2025-02-28",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "068449",
+    "npl_packid": "20020503100223",
     "startdatum": "2024-09-27",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "374803",
+    "npl_packid": "20191105100031",
     "startdatum": "2025-04-21",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "523393",
+    "npl_packid": "20201025100148",
     "startdatum": "2024-01-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "129488",
+    "npl_packid": "20201025100018",
     "startdatum": "2024-07-24",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "183493",
+    "npl_packid": "20240925100056",
     "startdatum": "2025-03-18",
     "slutdatum": "2025-09-23"
   },
   {
     "varunummer": "112114",
+    "npl_packid": "20240925100032",
     "startdatum": "2025-03-18",
     "slutdatum": "2025-11-13"
   },
   {
     "varunummer": "505933",
+    "npl_packid": "19971212100148",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-09-29"
   },
   {
     "varunummer": "151860",
+    "npl_packid": "19900701100086",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-10-24"
   },
   {
     "varunummer": "530325",
+    "npl_packid": "20181018100051",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "095076",
+    "npl_packid": "20181018100082",
     "startdatum": "2025-06-03",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "118278",
+    "npl_packid": "20190625100347",
     "startdatum": "2024-08-23",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "138902",
+    "npl_packid": "20170214100705",
     "startdatum": "2025-06-10",
     "slutdatum": "2025-12-18"
   },
   {
     "varunummer": "182328",
+    "npl_packid": "20170214100699",
     "startdatum": "2025-09-16",
     "slutdatum": "2025-12-18"
   },
   {
     "varunummer": "174499",
+    "npl_packid": "20180720100175",
     "startdatum": "2025-07-28",
     "slutdatum": "2026-02-01"
   },
   {
     "varunummer": "111612",
+    "npl_packid": "20140821100160",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-10-28"
   },
   {
     "varunummer": "045580",
+    "npl_packid": "20220615100085",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "097848",
+    "npl_packid": "20220615100061",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "076327",
+    "npl_packid": "20080118100155",
     "startdatum": "2025-05-01",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "103070",
+    "npl_packid": "19900401100157",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-10-22"
   },
   {
     "varunummer": "517712",
+    "npl_packid": "20150512100287",
     "startdatum": "2024-08-12",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "096414",
+    "npl_packid": "20040224100050",
     "startdatum": "2023-03-30",
     "slutdatum": "2026-05-31"
   },
   {
     "varunummer": "487233",
+    "npl_packid": "20040224100067",
     "startdatum": "2023-09-11",
     "slutdatum": "2026-05-31"
   },
   {
     "varunummer": "415415",
+    "npl_packid": "20120827100098",
     "startdatum": "2021-09-14",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "429318",
+    "npl_packid": "20120803100029",
     "startdatum": "2025-03-01"
   },
   {
     "varunummer": "071166",
+    "npl_packid": "20150126100277",
     "startdatum": "2022-06-03",
     "slutdatum": "2026-03-16"
   },
   {
     "varunummer": "189790",
+    "npl_packid": "20081107100507",
     "startdatum": "2024-02-15",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "485123",
+    "npl_packid": "20081107100514",
     "startdatum": "2024-10-16",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "021445",
+    "npl_packid": "20041213100013",
     "startdatum": "2025-01-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "021434",
+    "npl_packid": "19910101100371",
     "startdatum": "2025-01-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "427308",
+    "npl_packid": "20120706100195",
     "startdatum": "2025-03-10",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "044856",
+    "npl_packid": "20120706100201",
     "startdatum": "2025-07-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "452164",
+    "npl_packid": "20120706100171",
     "startdatum": "2025-07-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "412849",
+    "npl_packid": "20120706100188",
     "startdatum": "2025-07-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "060930",
+    "npl_packid": "20120706100164",
     "startdatum": "2025-04-05",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "441410",
+    "npl_packid": "19930101100621",
     "startdatum": "2025-04-22",
     "slutdatum": "2025-11-03"
   },
   {
     "varunummer": "125314",
+    "npl_packid": "20170428100096",
     "startdatum": "2025-03-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "460465",
+    "npl_packid": "20030205100261",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-11-16"
   },
   {
     "varunummer": "454210",
+    "npl_packid": "20140211100213",
     "startdatum": "2025-04-30",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "077994",
+    "npl_packid": "20140211100206",
     "startdatum": "2025-07-23",
     "slutdatum": "2025-09-17"
   },
   {
     "varunummer": "128047",
+    "npl_packid": "20141215100049",
     "startdatum": "2024-04-12",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "414148",
+    "npl_packid": "20141216100284",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-01-16"
   },
   {
     "varunummer": "429980",
+    "npl_packid": "20141216100178",
     "startdatum": "2025-03-10",
     "slutdatum": "2026-02-01"
   },
   {
     "varunummer": "407274",
+    "npl_packid": "20130213100021",
     "startdatum": "2024-12-05",
     "slutdatum": "2026-01-15"
   },
   {
     "varunummer": "568910",
+    "npl_packid": "20130213100120",
     "startdatum": "2025-05-15",
     "slutdatum": "2026-01-14"
   },
   {
     "varunummer": "026986",
+    "npl_packid": "20060117100080",
     "startdatum": "2025-04-30"
   },
   {
     "varunummer": "564871",
+    "npl_packid": "20181211100193",
     "startdatum": "2025-06-23",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "156066",
+    "npl_packid": "20170816100011",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-10-09"
   },
   {
     "varunummer": "569385",
+    "npl_packid": "20161122100109",
     "startdatum": "2025-04-14",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "193718",
+    "npl_packid": "20220628100034",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "034468",
+    "npl_packid": "20090119100146",
     "startdatum": "2025-03-31",
     "slutdatum": "2027-01-01"
   },
   {
     "varunummer": "034479",
+    "npl_packid": "20090119100221",
     "startdatum": "2025-08-06",
     "slutdatum": "2027-01-01"
   },
   {
     "varunummer": "052392",
+    "npl_packid": "20070111100139",
     "startdatum": "2023-09-01",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "166114",
+    "npl_packid": "20170424100014",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-11-05"
   },
   {
     "varunummer": "557455",
+    "npl_packid": "20160801100010",
     "startdatum": "2025-07-30"
   },
   {
     "varunummer": "090156",
+    "npl_packid": "20120208100136",
     "startdatum": "2023-05-09",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "185060",
+    "npl_packid": "20120208100129",
     "startdatum": "2023-05-09",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "041216",
+    "npl_packid": "20120208100143",
     "startdatum": "2023-05-09",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "134539",
+    "npl_packid": "20120208100150",
     "startdatum": "2023-05-09",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "072201",
+    "npl_packid": "20201110100077",
     "startdatum": "2024-10-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "527371",
+    "npl_packid": "20201110100107",
     "startdatum": "2025-05-30",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "020265",
+    "npl_packid": "20031205100466",
     "startdatum": "2025-07-31",
     "slutdatum": "2025-10-08"
   },
   {
     "varunummer": "073923",
+    "npl_packid": "20051223100033",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "440652",
+    "npl_packid": "20050722100032",
     "startdatum": "2025-05-10",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "514090",
+    "npl_packid": "20050722100018",
     "startdatum": "2025-04-08",
     "slutdatum": "2025-11-06"
   },
   {
     "varunummer": "373234",
+    "npl_packid": "20050722100025",
     "startdatum": "2025-05-15",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "023641",
+    "npl_packid": "20050602100077",
     "startdatum": "2025-04-24",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "023710",
+    "npl_packid": "20050207100052",
     "startdatum": "2025-07-18",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "505367",
+    "npl_packid": "20010228100028",
     "startdatum": "2024-08-28",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "114562",
+    "npl_packid": "20170308100161",
     "startdatum": "2022-04-19",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "384253",
+    "npl_packid": "20170308100208",
     "startdatum": "2022-12-12",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "409799",
+    "npl_packid": "20170310100098",
     "startdatum": "2022-12-12",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "122007",
+    "npl_packid": "20150506100149",
     "startdatum": "2023-06-24",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "581802",
+    "npl_packid": "20170308100260",
     "startdatum": "2023-06-24",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "163251",
+    "npl_packid": "20101001100509",
     "startdatum": "2025-06-13",
     "slutdatum": "2025-09-22"
   },
   {
     "varunummer": "181083",
+    "npl_packid": "20080111101142",
     "startdatum": "2023-12-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "028185",
+    "npl_packid": "20080111101159",
     "startdatum": "2024-07-08",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "076915",
+    "npl_packid": "20050310100109",
     "startdatum": "2025-08-19",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "049996",
+    "npl_packid": "20041207100357",
     "startdatum": "2024-12-06",
     "slutdatum": "2025-12-10"
   },
   {
     "varunummer": "065824",
+    "npl_packid": "20041207100340",
     "startdatum": "2025-01-14",
     "slutdatum": "2025-12-10"
   },
   {
     "varunummer": "537757",
+    "npl_packid": "20140221100227",
     "startdatum": "2025-01-16",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "061343",
+    "npl_packid": "20041207100319",
     "startdatum": "2025-04-28",
     "slutdatum": "2025-12-10"
   },
   {
     "varunummer": "131127",
+    "npl_packid": "20190603100079",
     "startdatum": "2025-07-02",
     "slutdatum": "2026-01-15"
   },
   {
     "varunummer": "125004",
+    "npl_packid": "20170807100501",
     "startdatum": "2025-01-13",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "171919",
+    "npl_packid": "20170807100518",
     "startdatum": "2025-01-13",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "498715",
+    "npl_packid": "20170216100734",
     "startdatum": "2023-06-30"
   },
   {
     "varunummer": "590015",
+    "npl_packid": "20180410100034",
     "startdatum": "2025-05-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "148043",
+    "npl_packid": "20180410100065",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "522038",
+    "npl_packid": "20120313101950",
     "startdatum": "2025-05-22",
     "slutdatum": "2026-03-30"
   },
   {
     "varunummer": "413261",
+    "npl_packid": "20120313101752",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "413222",
+    "npl_packid": "20130109100029",
     "startdatum": "2025-01-06",
     "slutdatum": "2025-10-17"
   },
   {
     "varunummer": "555543",
+    "npl_packid": "20171121100338",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "422973",
+    "npl_packid": "20171121100406",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "599131",
+    "npl_packid": "20110216100068",
     "startdatum": "2025-02-20",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "179461",
+    "npl_packid": "20110216100181",
     "startdatum": "2025-07-01",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "102229",
+    "npl_packid": "20110216100211",
     "startdatum": "2025-05-26",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "144273",
+    "npl_packid": "19980306100056",
     "startdatum": "2024-03-08",
     "slutdatum": "2025-10-06"
   },
   {
     "varunummer": "524245",
+    "npl_packid": "20011130100502",
     "startdatum": "2025-08-15",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "522103",
+    "npl_packid": "20011130100564",
     "startdatum": "2025-07-28",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "505975",
+    "npl_packid": "20170213100324",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "150812",
+    "npl_packid": "20170213100379",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "545522",
+    "npl_packid": "20170213100461",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "050874",
+    "npl_packid": "20170213100591",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "432606",
+    "npl_packid": "20170213100614",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "534228",
+    "npl_packid": "20170213100423",
     "startdatum": "2025-01-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "047962",
+    "npl_packid": "20170227100051",
     "startdatum": "2025-01-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "500822",
+    "npl_packid": "20170213100553",
     "startdatum": "2025-01-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "448762",
+    "npl_packid": "20170213100232",
     "startdatum": "2025-06-23",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "163453",
+    "npl_packid": "20160126100153",
     "startdatum": "2025-09-10",
     "slutdatum": "2025-11-06"
   },
   {
     "varunummer": "110484",
+    "npl_packid": "20131108100980",
     "startdatum": "2025-08-20",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "519463",
+    "npl_packid": "19721001100039",
     "startdatum": "2024-11-29",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "469751",
+    "npl_packid": "20191219100279",
     "startdatum": "2024-03-19",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "507334",
+    "npl_packid": "20191219100262",
     "startdatum": "2024-03-25",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "468992",
+    "npl_packid": "20171215100039",
     "startdatum": "2024-03-18",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "044995",
+    "npl_packid": "20171215100060",
     "startdatum": "2024-06-11",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "172143",
+    "npl_packid": "20171215100107",
     "startdatum": "2024-06-11",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "404645",
+    "npl_packid": "20030808107766",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "566667",
+    "npl_packid": "20030808107858",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "016858",
+    "npl_packid": "20030808107537",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "389171",
+    "npl_packid": "19951001100382",
     "startdatum": "2025-09-16",
     "slutdatum": "2025-11-04"
   },
   {
     "varunummer": "389106",
+    "npl_packid": "19951001100405",
     "startdatum": "2025-05-07",
     "slutdatum": "2025-11-04"
   },
   {
     "varunummer": "389122",
+    "npl_packid": "19951001100429",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-11-04"
   },
   {
     "varunummer": "487449",
+    "npl_packid": "20200417100025",
     "startdatum": "2025-05-23",
     "slutdatum": "2025-09-22"
   },
   {
     "varunummer": "415045",
+    "npl_packid": "20200417100032",
     "startdatum": "2025-07-28",
     "slutdatum": "2025-09-22"
   },
   {
     "varunummer": "040968",
+    "npl_packid": "20090422100116",
     "startdatum": "2024-10-01",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "040957",
+    "npl_packid": "20090422100109",
     "startdatum": "2025-01-25",
     "slutdatum": "2025-11-28"
   },
   {
     "varunummer": "040934",
+    "npl_packid": "20090422100086",
     "startdatum": "2025-01-25",
     "slutdatum": "2025-11-03"
   },
   {
     "varunummer": "408661",
+    "npl_packid": "20060421100264",
     "startdatum": "2025-09-16",
     "slutdatum": "2025-12-28"
   },
   {
     "varunummer": "579051",
+    "npl_packid": "20200803100097",
     "startdatum": "2023-11-15",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "435387",
+    "npl_packid": "20160308100049",
     "startdatum": "2024-06-26"
   },
   {
     "varunummer": "178981",
+    "npl_packid": "20200221100013",
     "startdatum": "2025-06-03"
   },
   {
     "varunummer": "005440",
+    "npl_packid": "19871001100062",
     "startdatum": "2025-08-21",
     "slutdatum": "2025-10-06"
   },
   {
     "varunummer": "528076",
+    "npl_packid": "20071214100651",
     "startdatum": "2025-01-15",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "063163",
+    "npl_packid": "20190815100249",
     "startdatum": "2023-12-13",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "487593",
+    "npl_packid": "20210216100041",
     "startdatum": "2025-07-28",
     "slutdatum": "2025-12-19"
   },
   {
     "varunummer": "469391",
+    "npl_packid": "20061216100049",
     "startdatum": "2025-09-01"
   },
   {
     "varunummer": "119836",
+    "npl_packid": "20070718100105",
     "startdatum": "2024-07-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "017745",
+    "npl_packid": "20031013101334",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-11-27"
   },
   {
     "varunummer": "033833",
+    "npl_packid": "20040128100033",
     "startdatum": "2025-09-11",
     "slutdatum": "2025-11-13"
   },
   {
     "varunummer": "037641",
+    "npl_packid": "20230118100208",
     "startdatum": "2025-01-29",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "145424",
+    "npl_packid": "20140107100082",
     "startdatum": "2025-01-21",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "022081",
+    "npl_packid": "20050620101100",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-11-20"
   },
   {
     "varunummer": "024379",
+    "npl_packid": "20041123100110",
     "startdatum": "2025-03-16",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "117461",
+    "npl_packid": "20041123100141",
     "startdatum": "2025-06-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "538675",
+    "npl_packid": "20221115100018",
     "startdatum": "2025-08-08",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "590254",
+    "npl_packid": "20080115102107",
     "startdatum": "2025-01-29",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "021334",
+    "npl_packid": "19930701100281",
     "startdatum": "2025-01-30",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "002762",
+    "npl_packid": "20001020100132",
     "startdatum": "2025-09-20",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "443903",
+    "npl_packid": "19961122100048",
     "startdatum": "2024-03-07",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "199412",
+    "npl_packid": "20090708100120",
     "startdatum": "2024-07-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "433705",
+    "npl_packid": "20090708100090",
     "startdatum": "2024-10-16",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "502851",
+    "npl_packid": "20100525100026",
     "startdatum": "2024-02-29",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "138828",
+    "npl_packid": "20100525100019",
     "startdatum": "2024-09-12",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "011813",
+    "npl_packid": "20040419100117",
     "startdatum": "2024-05-27",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "447607",
+    "npl_packid": "20040423100127",
     "startdatum": "2024-05-31",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "441542",
+    "npl_packid": "20180215100185",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-11-17"
   },
   {
     "varunummer": "039160",
+    "npl_packid": "20030917100627",
     "startdatum": "2025-07-17",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "565034",
+    "npl_packid": "19871001100116",
     "startdatum": "2024-01-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "583559",
+    "npl_packid": "19801001100281",
     "startdatum": "2025-05-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "130435",
+    "npl_packid": "19801001100274",
     "startdatum": "2025-05-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "130526",
+    "npl_packid": "19801001100298",
     "startdatum": "2025-07-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "595192",
+    "npl_packid": "20230503100242",
     "startdatum": "2023-10-16",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "376413",
+    "npl_packid": "20210309100163",
     "startdatum": "2025-05-16",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "107801",
+    "npl_packid": "20200525100023",
     "startdatum": "2024-05-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "417487",
+    "npl_packid": "20101207100334",
     "startdatum": "2024-08-28",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "051407",
+    "npl_packid": "20101207100419",
     "startdatum": "2025-04-10",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "541369",
+    "npl_packid": "20150602100265",
     "startdatum": "2024-09-04",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "541369",
+    "npl_packid": "20170428100195",
     "startdatum": "2024-09-04",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "372963",
+    "npl_packid": "20180507100060",
     "startdatum": "2025-05-07",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "372963",
+    "npl_packid": "20180530100020",
     "startdatum": "2025-05-07",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "578475",
+    "npl_packid": "20150602100272",
     "startdatum": "2025-05-07",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "538957",
+    "npl_packid": "20180507100022",
     "startdatum": "2025-06-05",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "538957",
+    "npl_packid": "20180530100013",
     "startdatum": "2025-06-05",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "196036",
+    "npl_packid": "20160712100215",
     "startdatum": "2025-06-09",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "196036",
+    "npl_packid": "20180103100013",
     "startdatum": "2025-06-02",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "509279",
+    "npl_packid": "20140909100037",
     "startdatum": "2025-09-11",
     "slutdatum": "2025-11-10"
   },
   {
     "varunummer": "509279",
+    "npl_packid": "20160712100208",
     "startdatum": "2025-09-11",
     "slutdatum": "2025-11-10"
   },
   {
     "varunummer": "565968",
+    "npl_packid": "20101029100116",
     "startdatum": "2023-06-21",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "379953",
+    "npl_packid": "20050224100301",
     "startdatum": "2023-12-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "551639",
+    "npl_packid": "20050224100561",
     "startdatum": "2023-09-30",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "563604",
+    "npl_packid": "20101011100100",
     "startdatum": "2025-04-03",
     "slutdatum": "2025-11-28"
   },
   {
     "varunummer": "161754",
+    "npl_packid": "20100621102153",
     "startdatum": "2025-08-15",
     "slutdatum": "2025-11-06"
   },
   {
     "varunummer": "391390",
+    "npl_packid": "20100621102450",
     "startdatum": "2025-09-10",
     "slutdatum": "2025-12-04"
   },
   {
     "varunummer": "059059",
+    "npl_packid": "20110207100411",
     "startdatum": "2025-02-01",
     "slutdatum": "2026-01-05"
   },
   {
     "varunummer": "389404",
+    "npl_packid": "20110207100480",
     "startdatum": "2025-02-01",
     "slutdatum": "2025-11-21"
   },
   {
     "varunummer": "564124",
+    "npl_packid": "20110207100398",
     "startdatum": "2025-08-08",
     "slutdatum": "2026-01-05"
   },
   {
     "varunummer": "118379",
+    "npl_packid": "20110207100435",
     "startdatum": "2025-09-11",
     "slutdatum": "2026-01-05"
   },
   {
     "varunummer": "011718",
+    "npl_packid": "19980515100038",
     "startdatum": "2025-07-16",
     "slutdatum": "2026-04-30"
   },
   {
     "varunummer": "178453",
+    "npl_packid": "20171017100527",
     "startdatum": "2022-04-19",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "524818",
+    "npl_packid": "20200930100052",
     "startdatum": "2025-09-01"
   },
   {
     "varunummer": "393795",
+    "npl_packid": "20131105100051",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "559336",
+    "npl_packid": "19930528100013",
     "startdatum": "2025-07-03",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "559344",
+    "npl_packid": "19930528100020",
     "startdatum": "2025-07-03",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "025568",
+    "npl_packid": "20050721100361",
     "startdatum": "2025-03-15",
     "slutdatum": "2026-02-28"
   },
   {
     "varunummer": "469480",
+    "npl_packid": "20060919100578",
     "startdatum": "2025-09-17",
     "slutdatum": "2025-12-05"
   },
   {
     "varunummer": "086854",
+    "npl_packid": "20150210100091",
     "startdatum": "2025-06-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "531020",
+    "npl_packid": "19980306100032",
     "startdatum": "2022-11-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "152720",
+    "npl_packid": "20071016100170",
     "startdatum": "2024-07-15"
   },
   {
     "varunummer": "152742",
+    "npl_packid": "20071016100200",
     "startdatum": "2024-07-15"
   },
   {
     "varunummer": "051699",
+    "npl_packid": "20081110100075",
     "startdatum": "2025-06-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "468058",
+    "npl_packid": "10010101108052",
     "startdatum": "2025-08-18",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "198963",
+    "npl_packid": "20211105100081",
     "startdatum": "2025-09-04",
     "slutdatum": "2026-02-15"
   },
   {
     "varunummer": "018562",
+    "npl_packid": "20040106100024",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "144329",
+    "npl_packid": "19750101100090",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "370482",
+    "npl_packid": "20180423100175",
     "startdatum": "2024-08-01",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "122440",
+    "npl_packid": "19921001100330",
     "startdatum": "2025-07-02",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "123059",
+    "npl_packid": "19921001100323",
     "startdatum": "2025-08-07",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "061379",
+    "npl_packid": "20070509100345",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "538673",
+    "npl_packid": "20120711100074",
     "startdatum": "2024-10-22",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "557872",
+    "npl_packid": "20161003100044",
     "startdatum": "2023-12-01",
     "slutdatum": "2026-10-01"
   },
   {
     "varunummer": "558491",
+    "npl_packid": "20210618100045",
     "startdatum": "2025-07-15",
     "slutdatum": "2026-01-15"
   },
   {
     "varunummer": "096451",
+    "npl_packid": "20070724100014",
     "startdatum": "2024-11-01",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "411918",
+    "npl_packid": "19961108100086",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "109850",
+    "npl_packid": "19961108100079",
     "startdatum": "2025-09-13",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "589668",
+    "npl_packid": "20220623100084",
     "startdatum": "2024-07-09",
     "slutdatum": "2026-02-15"
   },
   {
     "varunummer": "019372",
+    "npl_packid": "19990702100178",
     "startdatum": "2023-02-27",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "016317",
+    "npl_packid": "20030826100060",
     "startdatum": "2023-11-10",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "405019",
+    "npl_packid": "19721001100114",
     "startdatum": "2024-01-20",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "001780",
+    "npl_packid": "19980120100027",
     "startdatum": "2025-06-20",
     "slutdatum": "2025-09-20"
   },
   {
     "varunummer": "382209",
+    "npl_packid": "20141030100101",
     "startdatum": "2025-01-24",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "033019",
+    "npl_packid": "19790101100065",
     "startdatum": "2022-11-17",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "531456",
+    "npl_packid": "20200330100034",
     "startdatum": "2022-11-17",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "018940",
+    "npl_packid": "20041229100182",
     "startdatum": "2025-03-21",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "079173",
+    "npl_packid": "20250120100393",
     "startdatum": "2025-04-14",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "499928",
+    "npl_packid": "19971017100268",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "168342",
+    "npl_packid": "20071128100273",
     "startdatum": "2025-02-10",
     "slutdatum": "2026-02-15"
   },
   {
     "varunummer": "400913",
+    "npl_packid": "20120330100035",
     "startdatum": "2024-12-17",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "190997",
+    "npl_packid": "20150706100253",
     "startdatum": "2025-02-20",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "128327",
+    "npl_packid": "10010101117832",
     "startdatum": "2024-03-08",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "578438",
+    "npl_packid": "20190130100177",
     "startdatum": "2024-08-19",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "598411",
+    "npl_packid": "20190130100191",
     "startdatum": "2024-08-19",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "473746",
+    "npl_packid": "20160115100225",
     "startdatum": "2023-12-14",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "442798",
+    "npl_packid": "19920101100240",
     "startdatum": "2025-04-25",
     "slutdatum": "2025-10-06"
   },
   {
     "varunummer": "076888",
+    "npl_packid": "20060412100266",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-09-22"
   },
   {
     "varunummer": "040706",
+    "npl_packid": "20020503100278",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "040718",
+    "npl_packid": "20020503100285",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "538623",
+    "npl_packid": "20130514100119",
     "startdatum": "2025-06-26",
     "slutdatum": "2026-09-26"
   },
   {
     "varunummer": "014157",
+    "npl_packid": "10010101130541",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-10-13"
   },
   {
     "varunummer": "106021",
+    "npl_packid": "19910401100163",
     "startdatum": "2024-06-28",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "001123",
+    "npl_packid": "19950401100176",
     "startdatum": "2025-01-15",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "528069",
+    "npl_packid": "20190225100051",
     "startdatum": "2024-12-12",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "549342",
+    "npl_packid": "20190225100068",
     "startdatum": "2025-03-20",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "125200",
+    "npl_packid": "20190225100075",
     "startdatum": "2025-03-20",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "066983",
+    "npl_packid": "20190225100105",
     "startdatum": "2025-03-20",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "537977",
+    "npl_packid": "19820101100472",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-10"
   },
   {
     "varunummer": "484326",
+    "npl_packid": "20190304100033",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-17"
   },
   {
     "varunummer": "570703",
+    "npl_packid": "20221201100106",
     "startdatum": "2025-08-19",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "371069",
+    "npl_packid": "20221201100113",
     "startdatum": "2025-08-19",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "411903",
+    "npl_packid": "20210804100026",
     "startdatum": "2024-02-13",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "553910",
+    "npl_packid": "20160914100297",
     "startdatum": "2024-12-19",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "153004",
+    "npl_packid": "20191212100252",
     "startdatum": "2024-12-09",
     "slutdatum": "2025-11-20"
   },
   {
     "varunummer": "074630",
+    "npl_packid": "20191212100214",
     "startdatum": "2024-12-16",
     "slutdatum": "2025-11-20"
   },
   {
     "varunummer": "427531",
+    "npl_packid": "20191212100191",
     "startdatum": "2025-04-04",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "591497",
+    "npl_packid": "20190930100025",
     "startdatum": "2025-06-15",
     "slutdatum": "2025-11-13"
   },
   {
     "varunummer": "189771",
+    "npl_packid": "20161108100291",
     "startdatum": "2025-06-23",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "154240",
+    "npl_packid": "20100114100239",
     "startdatum": "2024-10-10",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "467518",
+    "npl_packid": "20100114100222",
     "startdatum": "2025-05-06",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "458565",
+    "npl_packid": "20060112100276",
     "startdatum": "2023-06-01",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "599876",
+    "npl_packid": "20060112100337",
     "startdatum": "2023-06-01",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "473354",
+    "npl_packid": "20060112100214",
     "startdatum": "2023-12-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "530895",
+    "npl_packid": "20060112100399",
     "startdatum": "2023-12-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "176806",
+    "npl_packid": "20060116100364",
     "startdatum": "2024-09-15",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "087708",
+    "npl_packid": "20080109100201",
     "startdatum": "2023-06-16",
     "slutdatum": "2025-11-07"
   },
   {
     "varunummer": "550796",
+    "npl_packid": "20111018100034",
     "startdatum": "2025-07-28",
     "slutdatum": "2026-01-05"
   },
   {
     "varunummer": "005884",
+    "npl_packid": "19920401100209",
     "startdatum": "2025-02-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "051275",
+    "npl_packid": "20200107100038",
     "startdatum": "2022-12-12",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "525784",
+    "npl_packid": "20200107100199",
     "startdatum": "2022-12-12",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "516597",
+    "npl_packid": "20200107100243",
     "startdatum": "2022-12-12",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "489596",
+    "npl_packid": "20200107100298",
     "startdatum": "2022-12-12",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "041801",
+    "npl_packid": "20200107100144",
     "startdatum": "2023-04-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "192141",
+    "npl_packid": "20170828100047",
     "startdatum": "2023-06-28",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "441432",
+    "npl_packid": "10010101109684",
     "startdatum": "2025-03-10"
   },
   {
     "varunummer": "516532",
+    "npl_packid": "19880401100350",
     "startdatum": "2025-01-31"
   },
   {
     "varunummer": "045515",
+    "npl_packid": "20210216101482",
     "startdatum": "2025-05-30",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "037036",
+    "npl_packid": "19520401100010",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "134991",
+    "npl_packid": "20140427100021",
     "startdatum": "2022-05-31",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "199994",
+    "npl_packid": "20140427100038",
     "startdatum": "2022-05-31",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "419311",
+    "npl_packid": "20171012100072",
     "startdatum": "2024-04-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "480296",
+    "npl_packid": "20171012100058",
     "startdatum": "2025-08-04",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "076436",
+    "npl_packid": "20171012100065",
     "startdatum": "2025-08-04",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "483101",
+    "npl_packid": "20140206100075",
     "startdatum": "2023-05-15",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "084138",
+    "npl_packid": "20140206100655",
     "startdatum": "2023-05-15",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "076847",
+    "npl_packid": "20140206100587",
     "startdatum": "2023-05-15",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "443659",
+    "npl_packid": "20140206100907",
     "startdatum": "2023-05-15",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "586500",
+    "npl_packid": "20140206100303",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "385477",
+    "npl_packid": "20140206100341",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "388605",
+    "npl_packid": "20140206100372",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "387568",
+    "npl_packid": "20140206100532",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "486111",
+    "npl_packid": "20200722100109",
     "startdatum": "2024-11-18",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "092285",
+    "npl_packid": "20200722100123",
     "startdatum": "2025-04-14",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "394422",
+    "npl_packid": "20200722100147",
     "startdatum": "2025-04-14",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "523148",
+    "npl_packid": "20171212100032",
     "startdatum": "2025-08-11",
     "slutdatum": "2027-08-09"
   },
   {
     "varunummer": "510402",
+    "npl_packid": "20201214100164",
     "startdatum": "2025-07-23",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "100886",
+    "npl_packid": "20201214100157",
     "startdatum": "2025-07-23",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "394761",
+    "npl_packid": "20211028100014",
     "startdatum": "2024-08-07",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "084944",
+    "npl_packid": "20210421100232",
     "startdatum": "2023-11-29",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "082116",
+    "npl_packid": "20121001100026",
     "startdatum": "2025-05-23",
     "slutdatum": "2026-04-02"
   },
   {
     "varunummer": "021797",
+    "npl_packid": "20040727100045",
     "startdatum": "2025-08-20",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "115820",
+    "npl_packid": "20140902100294",
     "startdatum": "2024-08-12",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "023120",
+    "npl_packid": "20040831100191",
     "startdatum": "2020-05-28",
     "slutdatum": "2028-06-28"
   },
   {
     "varunummer": "580373",
+    "npl_packid": "19940101100248",
     "startdatum": "2025-04-28",
     "slutdatum": "2025-09-22"
   },
   {
     "varunummer": "180977",
+    "npl_packid": "20210520100065",
     "startdatum": "2025-09-04",
     "slutdatum": "2026-02-15"
   },
   {
     "varunummer": "431154",
+    "npl_packid": "19910101100357",
     "startdatum": "2025-04-28",
     "slutdatum": "2025-12-19"
   },
   {
     "varunummer": "155220",
+    "npl_packid": "20170717100028",
     "startdatum": "2025-01-16"
   },
   {
     "varunummer": "115695",
+    "npl_packid": "20171010100135",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "518694",
+    "npl_packid": "20171010100142",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "079891",
+    "npl_packid": "20030221102232",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "477647",
+    "npl_packid": "20201105100099",
     "startdatum": "2024-04-08",
     "slutdatum": "2025-10-06"
   },
   {
     "varunummer": "093996",
+    "npl_packid": "20090227100328",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "199099",
+    "npl_packid": "20141114100331",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "016323",
+    "npl_packid": "20030624100170",
     "startdatum": "2025-06-26",
     "slutdatum": "2026-01-25"
   },
   {
     "varunummer": "050614",
+    "npl_packid": "20051212100334",
     "startdatum": "2025-08-15",
     "slutdatum": "2026-01-25"
   },
   {
     "varunummer": "025836",
+    "npl_packid": "20060221100211",
     "startdatum": "2025-07-07",
     "slutdatum": "2025-11-14"
   },
   {
     "varunummer": "583852",
+    "npl_packid": "20180314100284",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-11-07"
   },
   {
     "varunummer": "392504",
+    "npl_packid": "20200225100040",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-11-07"
   },
   {
     "varunummer": "387685",
+    "npl_packid": "20111116100264",
     "startdatum": "2025-09-10",
     "slutdatum": "2025-11-14"
   },
   {
     "varunummer": "579488",
+    "npl_packid": "20170907100111",
     "startdatum": "2025-09-11",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "029614",
+    "npl_packid": "20170907100104",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-11-03"
   },
   {
     "varunummer": "406024",
+    "npl_packid": "20170811100139",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "038421",
+    "npl_packid": "20061213100295",
     "startdatum": "2024-09-23",
     "slutdatum": "2026-01-15"
   },
   {
     "varunummer": "106940",
+    "npl_packid": "20061213100288",
     "startdatum": "2024-10-18",
     "slutdatum": "2026-01-15"
   },
   {
     "varunummer": "106929",
+    "npl_packid": "20061213100264",
     "startdatum": "2024-10-18",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "093814",
+    "npl_packid": "20061213100257",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-01-15"
   },
   {
     "varunummer": "495891",
+    "npl_packid": "20110317100431",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-01-16"
   },
   {
     "varunummer": "412468",
+    "npl_packid": "20120126100027",
     "startdatum": "2025-09-02",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "194091",
+    "npl_packid": "20131017100101",
     "startdatum": "2025-05-30",
     "slutdatum": "2025-11-17"
   },
   {
     "varunummer": "087229",
+    "npl_packid": "20090508100160",
     "startdatum": "2023-03-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "087240",
+    "npl_packid": "20090508100177",
     "startdatum": "2023-03-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "492058",
+    "npl_packid": "20031106100718",
     "startdatum": "2025-08-11",
     "slutdatum": "2025-10-14"
   },
   {
     "varunummer": "084629",
+    "npl_packid": "20141111100594",
     "startdatum": "2023-11-28",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "198266",
+    "npl_packid": "20141111100617",
     "startdatum": "2023-11-28",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "032239",
+    "npl_packid": "20200604100227",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "436781",
+    "npl_packid": "20130826100074",
     "startdatum": "2024-11-25",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "081791",
+    "npl_packid": "20150424100184",
     "startdatum": "2024-11-25",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "508941",
+    "npl_packid": "20130827100226",
     "startdatum": "2024-05-15",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "471272",
+    "npl_packid": "20130827100042",
     "startdatum": "2024-06-24",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "080980",
+    "npl_packid": "20080829100468",
     "startdatum": "2025-07-28",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "075527",
+    "npl_packid": "20080911100352",
     "startdatum": "2025-08-18",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "075493",
+    "npl_packid": "20080911100086",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "407138",
+    "npl_packid": "20060602102377",
     "startdatum": "2025-04-15",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "462455",
+    "npl_packid": "20220531100121",
     "startdatum": "2025-09-10",
     "slutdatum": "2025-12-30"
   },
   {
     "varunummer": "097053",
+    "npl_packid": "20111215100011",
     "startdatum": "2025-07-14",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "447439",
+    "npl_packid": "20181219100089",
     "startdatum": "2024-08-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "135058",
+    "npl_packid": "20090819100415",
     "startdatum": "2025-08-14",
     "slutdatum": "2025-10-10"
   },
   {
     "varunummer": "084579",
+    "npl_packid": "20090819100361",
     "startdatum": "2025-09-09",
     "slutdatum": "2025-12-19"
   },
   {
     "varunummer": "486750",
+    "npl_packid": "10010101109547",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "023746",
+    "npl_packid": "20050112100031",
     "startdatum": "2025-09-02",
     "slutdatum": "2026-03-30"
   },
   {
     "varunummer": "145629",
+    "npl_packid": "20180313100650",
     "startdatum": "2025-03-24"
   },
   {
     "varunummer": "135275",
+    "npl_packid": "20071216100017",
     "startdatum": "2025-04-09",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "027058",
+    "npl_packid": "20041110100154",
     "startdatum": "2025-05-02",
     "slutdatum": "2025-10-02"
   },
   {
     "varunummer": "179607",
+    "npl_packid": "20090227100441",
     "startdatum": "2025-09-20",
     "slutdatum": "2025-10-09"
   },
   {
     "varunummer": "388818",
+    "npl_packid": "20250415100060",
     "startdatum": "2025-09-16",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "546061",
+    "npl_packid": "20210419100237",
     "startdatum": "2023-04-28",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "476704",
+    "npl_packid": "20140616100085",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-24"
   },
   {
     "varunummer": "556756",
+    "npl_packid": "20140623100030",
     "startdatum": "2025-02-01",
     "slutdatum": "2026-02-28"
   },
   {
     "varunummer": "066482",
+    "npl_packid": "20100517100119",
     "startdatum": "2024-07-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "472809",
+    "npl_packid": "20100517100133",
     "startdatum": "2024-11-13",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "596331",
+    "npl_packid": "20090828100062",
     "startdatum": "2025-08-11",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "452217",
+    "npl_packid": "20190801100468",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "068649",
+    "npl_packid": "20220204100045",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "052280",
+    "npl_packid": "20180319100012",
     "startdatum": "2024-09-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "059012",
+    "npl_packid": "20180319100036",
     "startdatum": "2025-05-31",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "530118",
+    "npl_packid": "20180319100029",
     "startdatum": "2025-08-28",
     "slutdatum": "2028-07-30"
   },
   {
     "varunummer": "078038",
+    "npl_packid": "20131217100109",
     "startdatum": "2025-09-18",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "015461",
+    "npl_packid": "10010101117573",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "417821",
+    "npl_packid": "20140619100129",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "471951",
+    "npl_packid": "20140619100068",
     "startdatum": "2024-08-28",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "045974",
+    "npl_packid": "20150825100455",
     "startdatum": "2025-01-29",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "571329",
+    "npl_packid": "20171107100222",
     "startdatum": "2024-12-09"
   },
   {
     "varunummer": "571724",
+    "npl_packid": "20160509100428",
     "startdatum": "2024-11-01",
     "slutdatum": "2026-05-31"
   },
   {
     "varunummer": "478555",
+    "npl_packid": "20240112100074",
     "startdatum": "2025-05-20",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "446488",
+    "npl_packid": "20190902100060",
     "startdatum": "2025-08-06",
     "slutdatum": "2025-12-29"
   },
   {
     "varunummer": "415726",
+    "npl_packid": "20140523100260",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-10-24"
   },
   {
     "varunummer": "192517",
+    "npl_packid": "20140523100284",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-12-29"
   },
   {
     "varunummer": "466970",
+    "npl_packid": "20180920100050",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "507925",
+    "npl_packid": "20180918100017",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "524496",
+    "npl_packid": "19981120100154",
     "startdatum": "2025-06-30"
   },
   {
     "varunummer": "028786",
+    "npl_packid": "20191003100157",
     "startdatum": "2025-05-16",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "125436",
+    "npl_packid": "20121121100166",
     "startdatum": "2025-04-17",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "014931",
+    "npl_packid": "20030603100054",
     "startdatum": "2025-05-09",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "011368",
+    "npl_packid": "20020128100110",
     "startdatum": "2025-07-22",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "011325",
+    "npl_packid": "20020128100127",
     "startdatum": "2025-07-22",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "087606",
+    "npl_packid": "19931203100052",
     "startdatum": "2025-05-12"
   },
   {
     "varunummer": "478248",
+    "npl_packid": "10010101111328",
     "startdatum": "2024-09-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "046391",
+    "npl_packid": "19570101100025",
     "startdatum": "2023-10-09",
     "slutdatum": "2026-03-30"
   },
   {
     "varunummer": "467931",
+    "npl_packid": "20130123100029",
     "startdatum": "2025-08-11",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "537074",
+    "npl_packid": "20121024100102",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "026159",
+    "npl_packid": "20090224102400",
     "startdatum": "2024-06-20",
     "slutdatum": "2025-11-28"
   },
   {
     "varunummer": "037992",
+    "npl_packid": "20191112100062",
     "startdatum": "2023-03-30",
     "slutdatum": "2026-11-30"
   },
   {
     "varunummer": "490875",
+    "npl_packid": "20190426100089",
     "startdatum": "2023-05-12",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "142055",
+    "npl_packid": "20190426100096",
     "startdatum": "2025-01-02",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "404426",
+    "npl_packid": "19991007100016",
     "startdatum": "2025-01-01",
     "slutdatum": "2026-01-30"
   },
   {
     "varunummer": "005494",
+    "npl_packid": "20010514100053",
     "startdatum": "2025-04-18",
     "slutdatum": "2026-01-30"
   },
   {
     "varunummer": "023635",
+    "npl_packid": "20051215100119",
     "startdatum": "2024-12-09",
     "slutdatum": "2025-11-28"
   },
   {
     "varunummer": "022845",
+    "npl_packid": "20051215100089",
     "startdatum": "2024-12-02",
     "slutdatum": "2025-11-14"
   },
   {
     "varunummer": "133315",
+    "npl_packid": "20080111100640",
     "startdatum": "2025-08-15",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "189564",
+    "npl_packid": "20080929100382",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "117206",
+    "npl_packid": "20201026100123",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "500155",
+    "npl_packid": "20220315100033",
     "startdatum": "2023-09-22",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "520062",
+    "npl_packid": "20080520100026",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "089420",
+    "npl_packid": "20201102100214",
     "startdatum": "2024-08-19",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "106132",
+    "npl_packid": "20190408100069",
     "startdatum": "2025-03-31",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "028531",
+    "npl_packid": "20080214101933",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "459451",
+    "npl_packid": "20101025100103",
     "startdatum": "2025-08-11",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "044823",
+    "npl_packid": "20060509100018",
     "startdatum": "2025-05-20",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "044832",
+    "npl_packid": "20060509100025",
     "startdatum": "2025-06-15",
     "slutdatum": "2025-11-20"
   },
   {
     "varunummer": "019626",
+    "npl_packid": "20040316100685",
     "startdatum": "2025-04-14",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "044814",
+    "npl_packid": "20060509100032",
     "startdatum": "2025-07-15",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "019664",
+    "npl_packid": "20040316100708",
     "startdatum": "2025-06-15",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "137209",
+    "npl_packid": "20080507100216",
     "startdatum": "2025-06-15",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "019614",
+    "npl_packid": "20040316100692",
     "startdatum": "2025-08-15",
     "slutdatum": "2025-11-25"
   },
   {
     "varunummer": "137198",
+    "npl_packid": "20080507100209",
     "startdatum": "2025-07-29",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "452543",
+    "npl_packid": "20220625100150",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "422190",
+    "npl_packid": "20220625100174",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "165016",
+    "npl_packid": "20220625100211",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "424131",
+    "npl_packid": "20220625100075",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "494361",
+    "npl_packid": "20220625100037",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "373570",
+    "npl_packid": "20220625100105",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "442779",
+    "npl_packid": "20220625100143",
     "startdatum": "2024-10-16",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "446365",
+    "npl_packid": "20171019100013",
     "startdatum": "2025-08-11",
     "slutdatum": "2025-11-19"
   },
   {
     "varunummer": "394517",
+    "npl_packid": "20150428100579",
     "startdatum": "2025-07-30",
     "slutdatum": "2025-11-19"
   },
   {
     "varunummer": "548478",
+    "npl_packid": "20150203100664",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "562694",
+    "npl_packid": "19991229100023",
     "startdatum": "2024-03-01",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "065769",
+    "npl_packid": "20060807100062",
     "startdatum": "2024-03-01",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "482738",
+    "npl_packid": "20061219100107",
     "startdatum": "2023-07-16",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "568179",
+    "npl_packid": "20121106100242",
     "startdatum": "2023-06-30",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "173992",
+    "npl_packid": "20081113100065",
     "startdatum": "2023-07-11",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "074173",
+    "npl_packid": "20080812100246",
     "startdatum": "2025-08-18",
     "slutdatum": "2026-01-26"
   },
   {
     "varunummer": "074184",
+    "npl_packid": "20080812100253",
     "startdatum": "2025-08-18",
     "slutdatum": "2026-01-26"
   },
   {
     "varunummer": "074196",
+    "npl_packid": "20080812100260",
     "startdatum": "2025-08-18",
     "slutdatum": "2026-01-26"
   },
   {
     "varunummer": "101479",
+    "npl_packid": "20061115100058",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-11-27"
   },
   {
     "varunummer": "489756",
+    "npl_packid": "20180223100344",
     "startdatum": "2024-10-15",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "143386",
+    "npl_packid": "20170529100216",
     "startdatum": "2023-07-01",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "146916",
+    "npl_packid": "20221102100182",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "057918",
+    "npl_packid": "20240212100028",
     "startdatum": "2025-05-14",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "409952",
+    "npl_packid": "20110523100010",
     "startdatum": "2025-04-09",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "070557",
+    "npl_packid": "19700101100026",
     "startdatum": "2025-04-09",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "568293",
+    "npl_packid": "20110523100034",
     "startdatum": "2025-04-09",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "475379",
+    "npl_packid": "20210801100104",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-24"
   },
   {
     "varunummer": "450104",
+    "npl_packid": "20190611100115",
     "startdatum": "2023-01-01",
     "slutdatum": "2026-01-31"
   },
   {
     "varunummer": "585289",
+    "npl_packid": "19971030100139",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "133722",
+    "npl_packid": "20110224100661",
     "startdatum": "2024-12-17",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "031166",
+    "npl_packid": "20220224100131",
     "startdatum": "2025-09-15"
   },
   {
     "varunummer": "537499",
+    "npl_packid": "20230604100071",
     "startdatum": "2024-12-13",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "502616",
+    "npl_packid": "20230604100118",
     "startdatum": "2024-12-13",
     "slutdatum": "2026-04-01"
   },
   {
     "varunummer": "463309",
+    "npl_packid": "20180613100107",
     "startdatum": "2025-07-28",
     "slutdatum": "2026-02-01"
   },
   {
     "varunummer": "434806",
+    "npl_packid": "20200127100438",
     "startdatum": "2025-08-28",
     "slutdatum": "2026-01-13"
   },
   {
     "varunummer": "412963",
+    "npl_packid": "20140401100528",
     "startdatum": "2025-08-18",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "539974",
+    "npl_packid": "20181126100073",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-02-01"
   },
   {
     "varunummer": "443941",
+    "npl_packid": "20241025100137",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "571288",
+    "npl_packid": "20180412100025",
     "startdatum": "2024-11-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "060488",
+    "npl_packid": "20160216100155",
     "startdatum": "2024-11-12",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "419244",
+    "npl_packid": "20160927100154",
     "startdatum": "2024-11-12",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "514569",
+    "npl_packid": "20160216100124",
     "startdatum": "2024-11-28",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "049620",
+    "npl_packid": "20180412100056",
     "startdatum": "2024-11-28",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "049204",
+    "npl_packid": "20160216100100",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "459992",
+    "npl_packid": "20180412100018",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "479470",
+    "npl_packid": "20160216100179",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "444632",
+    "npl_packid": "20160216100254",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "137377",
+    "npl_packid": "20180412100070",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "595237",
+    "npl_packid": "20160216100278",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "593698",
+    "npl_packid": "20180412100087",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "169332",
+    "npl_packid": "20160216100209",
     "startdatum": "2025-04-10",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "490457",
+    "npl_packid": "20210702100029",
     "startdatum": "2025-09-11",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "115941",
+    "npl_packid": "20141110100731",
     "startdatum": "2023-08-11",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "032024",
+    "npl_packid": "20141110100755",
     "startdatum": "2023-12-15",
     "slutdatum": "2026-09-30"
   },
   {
     "varunummer": "598694",
+    "npl_packid": "20180205100102",
     "startdatum": "2025-03-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "469702",
+    "npl_packid": "20180205100126",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "056376",
+    "npl_packid": "20180205100140",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "452025",
+    "npl_packid": "20180206100057",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "581699",
+    "npl_packid": "20180206100118",
     "startdatum": "2025-08-15",
     "slutdatum": "2025-12-15"
   },
   {
     "varunummer": "119710",
+    "npl_packid": "20140825100456",
     "startdatum": "2025-03-20",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "100807",
+    "npl_packid": "20140825100265",
     "startdatum": "2025-06-24",
     "slutdatum": "2025-12-18"
   },
   {
     "varunummer": "508350",
+    "npl_packid": "20140825100548",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-11-27"
   },
   {
     "varunummer": "147788",
+    "npl_packid": "20160128100069",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-12-04"
   },
   {
     "varunummer": "138302",
+    "npl_packid": "20140825100807",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "101911",
+    "npl_packid": "20140724100397",
     "startdatum": "2025-08-04",
     "slutdatum": "2025-11-10"
   },
   {
     "varunummer": "449410",
+    "npl_packid": "20230130100194",
     "startdatum": "2024-12-20",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "370763",
+    "npl_packid": "20151002100305",
     "startdatum": "2025-08-08",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "137996",
+    "npl_packid": "20140929100574",
     "startdatum": "2025-06-11",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "134512",
+    "npl_packid": "20140929100628",
     "startdatum": "2025-06-11",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "061354",
+    "npl_packid": "20140929100758",
     "startdatum": "2025-09-17",
     "slutdatum": "2025-11-07"
   },
   {
     "varunummer": "401007",
+    "npl_packid": "20141112100241",
     "startdatum": "2025-06-09",
     "slutdatum": "2025-11-28"
   },
   {
     "varunummer": "470267",
+    "npl_packid": "20141112100418",
     "startdatum": "2025-07-03",
     "slutdatum": "2025-11-19"
   },
   {
     "varunummer": "146965",
+    "npl_packid": "20230105100013",
     "startdatum": "2025-06-09",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "002485",
+    "npl_packid": "19950101100025",
     "startdatum": "2025-07-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "573111",
+    "npl_packid": "20041201100056",
     "startdatum": "2025-08-26",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "576261",
+    "npl_packid": "20120727100228",
     "startdatum": "2024-09-19",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "593767",
+    "npl_packid": "20120727100358",
     "startdatum": "2024-12-17",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "511002",
+    "npl_packid": "20120727100334",
     "startdatum": "2025-01-24",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "598044",
+    "npl_packid": "20230810100047",
     "startdatum": "2025-09-19",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "000750",
+    "npl_packid": "20000908100370",
     "startdatum": "2025-08-28",
     "slutdatum": "2026-01-16"
   },
   {
     "varunummer": "135476",
+    "npl_packid": "20200318100100",
     "startdatum": "2024-12-02",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "447633",
+    "npl_packid": "20210323100101",
     "startdatum": "2024-12-02",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "383424",
+    "npl_packid": "20200318100148",
     "startdatum": "2024-12-11",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "076166",
+    "npl_packid": "19851001100095",
     "startdatum": "2025-08-18",
     "slutdatum": "2025-10-24"
   },
   {
     "varunummer": "160531",
+    "npl_packid": "19880401100077",
     "startdatum": "2025-07-15",
     "slutdatum": "2025-10-28"
   },
   {
     "varunummer": "491753",
+    "npl_packid": "19891208100078",
     "startdatum": "2025-03-30",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "377832",
+    "npl_packid": "20150820100450",
     "startdatum": "2025-06-10",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "404325",
+    "npl_packid": "20160301100329",
     "startdatum": "2025-06-10",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "564824",
+    "npl_packid": "20150820100498",
     "startdatum": "2025-06-10",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "110332",
+    "npl_packid": "20150820100566",
     "startdatum": "2025-06-10",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "147881",
+    "npl_packid": "20160301100367",
     "startdatum": "2025-06-10",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "104160",
+    "npl_packid": "20150820100641",
     "startdatum": "2025-06-10",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "502704",
+    "npl_packid": "20160301100381",
     "startdatum": "2025-06-10",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "066497",
+    "npl_packid": "20140226100284",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-12-25"
   },
   {
     "varunummer": "104688",
+    "npl_packid": "20150331100802",
     "startdatum": "2025-07-02",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "564150",
+    "npl_packid": "20150331100833",
     "startdatum": "2025-09-05",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "178991",
+    "npl_packid": "20170705100283",
     "startdatum": "2025-01-15",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "152410",
+    "npl_packid": "20170705100467",
     "startdatum": "2024-12-06",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "459838",
+    "npl_packid": "20170705100528",
     "startdatum": "2025-01-31",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "533028",
+    "npl_packid": "20170705100313",
     "startdatum": "2025-02-24",
     "slutdatum": "2025-11-17"
   },
   {
     "varunummer": "571902",
+    "npl_packid": "20170705100344",
     "startdatum": "2025-07-17",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "390362",
+    "npl_packid": "20170705100276",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "076657",
+    "npl_packid": "20170705100405",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "373114",
+    "npl_packid": "20100621100081",
     "startdatum": "2023-06-27",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "077237",
+    "npl_packid": "20100621100104",
     "startdatum": "2023-06-27",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "070709",
+    "npl_packid": "20100621100128",
     "startdatum": "2023-06-27",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "474659",
+    "npl_packid": "20100621100142",
     "startdatum": "2023-06-27",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "584716",
+    "npl_packid": "20100621100197",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "457015",
+    "npl_packid": "20120210100186",
     "startdatum": "2025-08-29",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "424581",
+    "npl_packid": "20150911100109",
     "startdatum": "2025-08-15",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "522801",
+    "npl_packid": "20150911100123",
     "startdatum": "2025-08-15",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "113607",
+    "npl_packid": "20100621100173",
     "startdatum": "2025-08-29",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "435004",
+    "npl_packid": "20170104100525",
     "startdatum": "2025-08-05",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "074053",
+    "npl_packid": "20170104100099",
     "startdatum": "2025-08-27",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "437672",
+    "npl_packid": "20170104100426",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "054346",
+    "npl_packid": "19391001100058",
     "startdatum": "2023-04-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "569678",
+    "npl_packid": "20151001100092",
     "startdatum": "2024-12-16",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "124777",
+    "npl_packid": "20151001100153",
     "startdatum": "2025-07-02",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "475916",
+    "npl_packid": "19891001100299",
     "startdatum": "2024-11-30"
   },
   {
     "varunummer": "192313",
+    "npl_packid": "19891001100305",
     "startdatum": "2025-03-10"
   },
   {
     "varunummer": "495836",
+    "npl_packid": "20110113100031",
     "startdatum": "2025-03-15",
     "slutdatum": "2025-10-06"
   },
   {
     "varunummer": "453862",
+    "npl_packid": "20070809100038",
     "startdatum": "2025-01-05",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "503645",
+    "npl_packid": "20070809100014",
     "startdatum": "2025-04-30",
     "slutdatum": "2025-10-23"
   },
   {
     "varunummer": "017762",
+    "npl_packid": "20040211100032",
     "startdatum": "2025-02-28",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "017787",
+    "npl_packid": "20040211100087",
     "startdatum": "2025-03-12",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "017763",
+    "npl_packid": "20040211100018",
     "startdatum": "2025-03-19",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "017773",
+    "npl_packid": "20031216100011",
     "startdatum": "2025-04-04",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "017809",
+    "npl_packid": "20040211100070",
     "startdatum": "2025-04-25",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "079901",
+    "npl_packid": "20160428100042",
     "startdatum": "2024-12-10"
   },
   {
     "varunummer": "079901",
+    "npl_packid": "20210907100053",
     "startdatum": "2024-12-10"
   },
   {
     "varunummer": "424308",
+    "npl_packid": "20150225100079",
     "startdatum": "2024-12-20"
   },
   {
     "varunummer": "424308",
+    "npl_packid": "20180605100047",
     "startdatum": "2024-12-20"
   },
   {
     "varunummer": "100799",
+    "npl_packid": "20210205100113",
     "startdatum": "2024-08-28",
     "slutdatum": "2026-03-01"
   },
   {
     "varunummer": "061856",
+    "npl_packid": "20091023100161",
     "startdatum": "2025-04-22",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "494858",
+    "npl_packid": "20190403100019",
     "startdatum": "2025-05-07",
     "slutdatum": "2025-11-15"
   },
   {
     "varunummer": "163709",
+    "npl_packid": "19640401100022",
     "startdatum": "2025-09-18",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "434845",
+    "npl_packid": "20090903100208",
     "startdatum": "2025-04-14",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "189054",
+    "npl_packid": "20171123100015",
     "startdatum": "2025-06-09",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "128097",
+    "npl_packid": "20071023100637",
     "startdatum": "2025-08-27",
     "slutdatum": "2025-10-12"
   },
   {
     "varunummer": "524664",
+    "npl_packid": "20100701100086",
     "startdatum": "2025-07-15",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "097515",
+    "npl_packid": "20060504101034",
     "startdatum": "2025-07-16",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "138728",
+    "npl_packid": "20190715100066",
     "startdatum": "2024-08-29",
     "slutdatum": "2026-02-20"
   },
   {
     "varunummer": "112915",
+    "npl_packid": "20190715100035",
     "startdatum": "2025-01-22",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "489583",
+    "npl_packid": "20190715100097",
     "startdatum": "2025-01-26",
     "slutdatum": "2026-02-20"
   },
   {
     "varunummer": "573677",
+    "npl_packid": "20240223100062",
     "startdatum": "2025-08-18",
     "slutdatum": "2025-11-26"
   },
   {
     "varunummer": "575139",
+    "npl_packid": "20171221100894",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "145374",
+    "npl_packid": "20160912100121",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "",
+    "npl_packid": "20091113100019",
     "startdatum": "2025-09-17",
     "slutdatum": "2026-06-26"
   },
   {
     "varunummer": "158659",
+    "npl_packid": "19890101100079",
     "startdatum": "2025-09-09",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "464724",
+    "npl_packid": "20200528100365",
     "startdatum": "2025-04-02",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "068205",
+    "npl_packid": "19831001100011",
     "startdatum": "2025-08-05",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "161901",
+    "npl_packid": "19540101100066",
     "startdatum": "2023-12-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "155326",
+    "npl_packid": "20170718100010",
     "startdatum": "2023-12-18",
     "slutdatum": "2025-10-27"
   },
   {
     "varunummer": "397333",
+    "npl_packid": "20050902100029",
     "startdatum": "2023-11-20",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "013621",
+    "npl_packid": "20030211100019",
     "startdatum": "2024-09-20",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "048125",
+    "npl_packid": "20060510100014",
     "startdatum": "2025-01-17",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "070343",
+    "npl_packid": "20210629100010",
     "startdatum": "2025-01-08",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "070343",
+    "npl_packid": "20220613100018",
     "startdatum": "2025-01-08",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "079032",
+    "npl_packid": "20071023100682",
     "startdatum": "2025-05-01",
     "slutdatum": "2025-10-28"
   },
   {
     "varunummer": "079050",
+    "npl_packid": "20071023100736",
     "startdatum": "2025-05-10",
     "slutdatum": "2026-03-30"
   },
   {
     "varunummer": "079077",
+    "npl_packid": "20071023100781",
     "startdatum": "2025-05-01",
     "slutdatum": "2025-10-28"
   },
   {
     "varunummer": "024485",
+    "npl_packid": "20041206100693",
     "startdatum": "2025-03-06",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "024366",
+    "npl_packid": "20050614100744",
     "startdatum": "2025-03-06",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "024365",
+    "npl_packid": "20041206100761",
     "startdatum": "2025-03-06",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "024276",
+    "npl_packid": "20050614100775",
     "startdatum": "2025-03-06",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "516099",
+    "npl_packid": "20210505100080",
     "startdatum": "2025-06-13",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "483480",
+    "npl_packid": "20210505100066",
     "startdatum": "2025-09-15",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "039566",
+    "npl_packid": "20110427100949",
     "startdatum": "2025-03-06",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "396769",
+    "npl_packid": "20110427100970",
     "startdatum": "2025-03-06",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "141810",
+    "npl_packid": "20110427100963",
     "startdatum": "2025-03-06",
     "slutdatum": "2025-12-24"
   },
   {
     "varunummer": "585005",
+    "npl_packid": "20170315100468",
     "startdatum": "2025-05-23",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "438059",
+    "npl_packid": "20200220100069",
     "startdatum": "2024-11-18",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "515661",
+    "npl_packid": "20200220100175",
     "startdatum": "2025-03-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "023801",
+    "npl_packid": "20050801100014",
     "startdatum": "2025-02-18",
     "slutdatum": "2026-08-01"
   },
   {
     "varunummer": "380023",
+    "npl_packid": "20180817100071",
     "startdatum": "2024-11-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "519395",
+    "npl_packid": "20060822100511",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "543238",
+    "npl_packid": "20060822100566",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "382156",
+    "npl_packid": "20060822100627",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "133896",
+    "npl_packid": "20060822100672",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "449219",
+    "npl_packid": "20060822100801",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "417874",
+    "npl_packid": "20060822100818",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "530418",
+    "npl_packid": "20060822100955",
     "startdatum": "2024-09-25",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "021469",
+    "npl_packid": "10010101122287",
     "startdatum": "2025-09-17",
     "slutdatum": "2025-10-17"
   },
   {
     "varunummer": "454141",
+    "npl_packid": "20200820100032",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "406880",
+    "npl_packid": "20200820100063",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "521283",
+    "npl_packid": "20200820100094",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "434387",
+    "npl_packid": "20200820100070",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "573080",
+    "npl_packid": "20200820100148",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "086409",
+    "npl_packid": "20200820100124",
     "startdatum": "2023-06-27",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "062697",
+    "npl_packid": "20190529100092",
     "startdatum": "2025-06-10",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "166726",
+    "npl_packid": "20190529100146",
     "startdatum": "2025-08-29",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "515505",
+    "npl_packid": "20200416100354",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-11-18"
   },
   {
     "varunummer": "553469",
+    "npl_packid": "20200416100422",
     "startdatum": "2025-04-01",
     "slutdatum": "2025-11-18"
   },
   {
     "varunummer": "064365",
+    "npl_packid": "20200212100138",
     "startdatum": "2025-09-19",
     "slutdatum": "2026-01-20"
   },
   {
     "varunummer": "024633",
+    "npl_packid": "10010101101732",
     "startdatum": "2025-09-18",
     "slutdatum": "2025-10-13"
   },
   {
     "varunummer": "133685",
+    "npl_packid": "20210622100048",
     "startdatum": "2025-08-30",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "572351",
+    "npl_packid": "20180911100304",
     "startdatum": "2023-10-16",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "123682",
+    "npl_packid": "20160504100188",
     "startdatum": "2025-05-12",
     "slutdatum": "2025-11-22"
   },
   {
     "varunummer": "093140",
+    "npl_packid": "20160504100140",
     "startdatum": "2025-04-28",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "130441",
+    "npl_packid": "10010101111168",
     "startdatum": "2025-03-01"
   },
   {
     "varunummer": "510497",
+    "npl_packid": "19910701100214",
     "startdatum": "2025-08-31",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "515918",
+    "npl_packid": "20220623100039",
     "startdatum": "2025-06-13",
     "slutdatum": "2025-10-10"
   },
   {
     "varunummer": "399780",
+    "npl_packid": "20220623100022",
     "startdatum": "2025-06-13",
     "slutdatum": "2025-10-10"
   },
   {
     "varunummer": "519856",
+    "npl_packid": "20200514100157",
     "startdatum": "2023-06-26",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "069091",
+    "npl_packid": "20200514100072",
     "startdatum": "2023-06-26",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "490428",
+    "npl_packid": "20211126100022",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "561541",
+    "npl_packid": "20211126100053",
     "startdatum": "2025-08-01",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "152104",
+    "npl_packid": "20211126100237",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-07-01"
   },
   {
     "varunummer": "096768",
+    "npl_packid": "19930101100393",
     "startdatum": "2023-08-10",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "385065",
+    "npl_packid": "10010101105686",
     "startdatum": "2023-03-18",
     "slutdatum": "2026-03-31"
   },
   {
     "varunummer": "589708",
+    "npl_packid": "20180402100028",
     "startdatum": "2025-05-20",
     "slutdatum": "2026-02-27"
   },
   {
     "varunummer": "544902",
+    "npl_packid": "20150309100063",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-09-26"
   },
   {
     "varunummer": "469605",
+    "npl_packid": "20201130100392",
     "startdatum": "2025-04-10",
     "slutdatum": "2025-10-21"
   },
   {
     "varunummer": "411478",
+    "npl_packid": "20160815101003",
     "startdatum": "2025-09-15",
     "slutdatum": "2026-04-23"
   },
   {
     "varunummer": "412924",
+    "npl_packid": "19860701100106",
     "startdatum": "2024-11-11",
     "slutdatum": "2025-12-01"
   },
   {
     "varunummer": "560595",
+    "npl_packid": "20200813100032",
     "startdatum": "2025-06-11",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "114557",
+    "npl_packid": "20130814100055",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "431604",
+    "npl_packid": "20010329100040",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "120994",
+    "npl_packid": "20190509100258",
     "startdatum": "2025-09-19",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "027402",
+    "npl_packid": "20110630100644",
     "startdatum": "2025-09-19",
     "slutdatum": "2025-10-02"
   },
   {
     "varunummer": "485473",
+    "npl_packid": "19861107100011",
     "startdatum": "2025-06-02",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "421556",
+    "npl_packid": "20151111100043",
     "startdatum": "2025-06-01",
     "slutdatum": "2025-12-19"
   },
   {
     "varunummer": "137863",
+    "npl_packid": "20200304100015",
     "startdatum": "2024-02-01",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "135624",
+    "npl_packid": "19530101100012",
     "startdatum": "2025-09-12",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "550922",
+    "npl_packid": "20181031100137",
     "startdatum": "2024-11-16",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "561815",
+    "npl_packid": "20110926100280",
     "startdatum": "2025-03-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "488308",
+    "npl_packid": "20110926100303",
     "startdatum": "2025-03-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "540639",
+    "npl_packid": "20110926100259",
     "startdatum": "2025-02-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "454102",
+    "npl_packid": "20110927100418",
     "startdatum": "2025-03-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "180697",
+    "npl_packid": "20110927100487",
     "startdatum": "2025-03-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "079565",
+    "npl_packid": "20110927100494",
     "startdatum": "2025-03-24",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "540946",
+    "npl_packid": "20110927100692",
     "startdatum": "2025-05-12",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "388654",
+    "npl_packid": "20110927100678",
     "startdatum": "2025-05-12",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "030797",
+    "npl_packid": "20110927100753",
     "startdatum": "2025-05-12",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "058981",
+    "npl_packid": "20110927100814",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-10-24"
   },
   {
     "varunummer": "542581",
+    "npl_packid": "20131128100113",
     "startdatum": "2025-08-19",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "091739",
+    "npl_packid": "20110524100118",
     "startdatum": "2025-08-26",
     "slutdatum": "2025-10-15"
   },
   {
     "varunummer": "044161",
+    "npl_packid": "20110927100562",
     "startdatum": "2025-02-15",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "581446",
+    "npl_packid": "20110927100630",
     "startdatum": "2025-03-15",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "568415",
+    "npl_packid": "20220331100048",
     "startdatum": "2025-07-14",
     "slutdatum": "2025-09-20"
   },
   {
     "varunummer": "000555",
+    "npl_packid": "20000630100211",
     "startdatum": "2025-08-25",
     "slutdatum": "2025-10-03"
   },
   {
     "varunummer": "073925",
+    "npl_packid": "20090424100299",
     "startdatum": "2025-09-08",
     "slutdatum": "2026-02-25"
   },
   {
     "varunummer": "162441",
+    "npl_packid": "20071221100095",
     "startdatum": "2025-06-02",
     "slutdatum": "2025-11-17"
   },
   {
     "varunummer": "124902",
+    "npl_packid": "20060227100086",
     "startdatum": "2025-08-06",
     "slutdatum": "2025-10-08"
   },
   {
     "varunummer": "582532",
+    "npl_packid": "20060227100130",
     "startdatum": "2025-07-29",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "430046",
+    "npl_packid": "20060227100048",
     "startdatum": "2025-08-06",
     "slutdatum": "2025-10-08"
   },
   {
     "varunummer": "564229",
+    "npl_packid": "19930101100294",
     "startdatum": "2025-06-23",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "578853",
+    "npl_packid": "20180313100520",
     "startdatum": "2025-03-15",
     "slutdatum": "2025-11-20"
   },
   {
     "varunummer": "031788",
+    "npl_packid": "20180313100469",
     "startdatum": "2025-07-02",
     "slutdatum": "2025-11-20"
   },
   {
     "varunummer": "549467",
+    "npl_packid": "20190708100110",
     "startdatum": "2025-07-31",
     "slutdatum": "2025-11-28"
   },
   {
     "varunummer": "552401",
+    "npl_packid": "20240814100235",
     "startdatum": "2025-05-27",
     "slutdatum": "2025-12-19"
   },
   {
     "varunummer": "128262",
+    "npl_packid": "20230807100065",
     "startdatum": "2025-08-05",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "133635",
+    "npl_packid": "19850701100060",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-11-21"
   },
   {
     "varunummer": "152543",
+    "npl_packid": "20121112100069",
     "startdatum": "2023-05-30"
   },
   {
     "varunummer": "577589",
+    "npl_packid": "20210921100305",
     "startdatum": "2025-01-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "044961",
+    "npl_packid": "20191114100084",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "492904",
+    "npl_packid": "20200313100020",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "115445",
+    "npl_packid": "20150202100054",
     "startdatum": "2025-08-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "079269",
+    "npl_packid": "19870701100037",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-10-06"
   },
   {
     "varunummer": "071101",
+    "npl_packid": "20221020100202",
     "startdatum": "2025-03-17",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "571172",
+    "npl_packid": "19820401100011",
     "startdatum": "2025-06-25",
     "slutdatum": "2025-11-12"
   },
   {
     "varunummer": "058659",
+    "npl_packid": "20071108100231",
     "startdatum": "2025-09-08",
     "slutdatum": "2025-11-30"
   },
   {
     "varunummer": "032930",
+    "npl_packid": "20090211100044",
     "startdatum": "2025-03-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "142533",
+    "npl_packid": "20090211100051",
     "startdatum": "2025-03-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "385469",
+    "npl_packid": "20090211100075",
     "startdatum": "2025-03-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "575091",
+    "npl_packid": "20090211100082",
     "startdatum": "2025-03-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "155254",
+    "npl_packid": "20090211100105",
     "startdatum": "2025-03-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "120177",
+    "npl_packid": "20091026101042",
     "startdatum": "2025-09-05",
     "slutdatum": "2026-01-04"
   },
   {
     "varunummer": "496009",
+    "npl_packid": "20101110100100",
     "startdatum": "2023-05-15",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "477469",
+    "npl_packid": "20101108100143",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "514749",
+    "npl_packid": "20101108100242",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "050140",
+    "npl_packid": "20050224100158",
     "startdatum": "2025-07-01",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "040479",
+    "npl_packid": "20050224100240",
     "startdatum": "2025-08-28",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "403237",
+    "npl_packid": "20160411100172",
     "startdatum": "2024-01-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "485484",
+    "npl_packid": "20160411100158",
     "startdatum": "2024-07-15",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "171258",
+    "npl_packid": "20160411100165",
     "startdatum": "2024-08-15",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "428392",
+    "npl_packid": "20230117100346",
     "startdatum": "2025-07-15",
     "slutdatum": "2025-10-30"
   },
   {
     "varunummer": "057376",
+    "npl_packid": "20090403100258",
     "startdatum": "2024-04-11",
     "slutdatum": "2025-10-16"
   },
   {
     "varunummer": "059378",
+    "npl_packid": "10010101106409",
     "startdatum": "2024-09-20",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "476606",
+    "npl_packid": "10010101111090",
     "startdatum": "2024-07-01",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "500045",
+    "npl_packid": "20040621100042",
     "startdatum": "2024-10-28",
     "slutdatum": "2025-10-28"
   },
   {
     "varunummer": "500841",
+    "npl_packid": "20191206100022",
     "startdatum": "2024-10-17",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "525020",
+    "npl_packid": "20181004100355",
     "startdatum": "2024-11-07",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "035197",
+    "npl_packid": "10010101107284",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "001726",
+    "npl_packid": "10010101107949",
     "startdatum": "2025-01-15",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "035178",
+    "npl_packid": "19821001100357",
     "startdatum": "2025-09-06",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "398806",
+    "npl_packid": "20111208100028",
     "startdatum": "2023-07-01",
     "slutdatum": "2026-08-31"
   },
   {
     "varunummer": "111163",
+    "npl_packid": "20190612100237",
     "startdatum": "2025-01-15",
     "slutdatum": "2026-01-01"
   },
   {
     "varunummer": "406899",
+    "npl_packid": "20210326100207",
     "startdatum": "2024-07-24",
     "slutdatum": "2025-08-28"
   },
   {
     "varunummer": "570746",
+    "npl_packid": "20160815100051",
     "startdatum": "2025-09-04",
     "slutdatum": "2025-10-01"
   },
   {
     "varunummer": "002616",
+    "npl_packid": "20000727100018",
     "startdatum": "2020-11-01",
     "slutdatum": "2025-12-31"
   },
   {
     "varunummer": "527095",
+    "npl_packid": "20200924100099",
     "startdatum": "2025-06-02",
     "slutdatum": "2025-12-04"
   },
   {
     "varunummer": "425838",
+    "npl_packid": "20170207100019",
     "startdatum": "2025-09-19",
     "slutdatum": "2025-10-06"
   },
   {
     "varunummer": "013593",
+    "npl_packid": "20020829100013",
     "startdatum": "2025-09-19",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "048546",
+    "npl_packid": "19990910100045",
     "startdatum": "2025-09-19",
     "slutdatum": "2025-10-20"
   },
   {
     "varunummer": "106747",
+    "npl_packid": "20220103100092",
     "startdatum": "2025-07-14",
     "slutdatum": "2026-06-30"
   },
   {
     "varunummer": "419969",
+    "npl_packid": "20181119100042",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "599855",
+    "npl_packid": "20000630100396",
     "startdatum": "2025-05-15",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "461122",
+    "npl_packid": "20121220100012",
     "startdatum": "2025-02-28",
     "slutdatum": "2025-10-31"
   },
   {
     "varunummer": "199259",
+    "npl_packid": "20091102100235",
     "startdatum": "2025-08-06",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "370307",
+    "npl_packid": "19920101100424",
     "startdatum": "2025-08-27",
     "slutdatum": "2025-11-14"
   },
   {
     "varunummer": "104965",
+    "npl_packid": "20180214100018",
     "startdatum": "2024-11-16",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "104427",
+    "npl_packid": "20120619100169",
     "startdatum": "2024-10-16",
     "slutdatum": "2025-11-01"
   },
   {
     "varunummer": "503329",
+    "npl_packid": "20200515100088",
     "startdatum": "2025-08-22",
     "slutdatum": "2026-01-12"
   },
   {
     "varunummer": "186121",
+    "npl_packid": "20080604100959",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "535878",
+    "npl_packid": "20080604100935",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "384789",
+    "npl_packid": "20080604101017",
     "startdatum": "2025-09-01",
     "slutdatum": "2026-12-31"
   },
   {
     "varunummer": "027622",
+    "npl_packid": "20040211100148",
     "startdatum": "2025-08-20",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "027988",
+    "npl_packid": "20081031100024",
     "startdatum": "2025-02-01",
     "slutdatum": "2025-12-05"
   },
   {
     "varunummer": "027976",
+    "npl_packid": "20081031100017",
     "startdatum": "2025-02-09",
     "slutdatum": "2026-01-02"
   },
   {
     "varunummer": "027999",
+    "npl_packid": "20081031100031",
     "startdatum": "2025-03-09",
     "slutdatum": "2025-09-30"
   },
   {
     "varunummer": "176214",
+    "npl_packid": "19960927100031",
     "startdatum": "2025-03-30",
     "slutdatum": "2025-09-25"
   },
   {
     "varunummer": "123297",
+    "npl_packid": "20040223100037",
     "startdatum": "2025-09-01",
     "slutdatum": "2025-10-01"
   }
